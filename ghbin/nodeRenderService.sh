@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# This was in the directory as nodeRenderService2.sh
+# This was in the directory as nodeRenderService3.sh
+
 # BLARGH!
 # Version 0.6.03
 # 04-04-2017
@@ -308,7 +309,7 @@ function getProject () {
 cd
 scanProjectsLoop=0
 scanClearLogs=3
-nodeAssetsPath='/media/gh/'
+nodeAssetsPath='/media/farm/'
 nodeServiceCentralLogDir=$nodeAssetsPath'ghlogs/'
 ghRemoteStatusLog "noFrame" "ServiceBegin"
 echo $(hostname) >> $nodeServiceCentralLogDir'gridNodes.list'
@@ -324,7 +325,7 @@ do
 	else
 		debug=0
 		nodeType=1
-		nodeAssetsPath='/media/gh/'
+		nodeAssetsPath='/media/farm/'
 		nodeProjectsConfigDir=$nodeAssetsPath'ghprojects/'
 		nodeFileOfJobPrior="$nodeProjectsConfigDir/jobPriority.list"
 		nodeScanLoopSleepTime=10
