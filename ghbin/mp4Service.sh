@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This was saved as mp4Service5.sh
+# This was saved as mp4Service4.sh
 # mp4Service
 # Version 0.1.1
 # 04-19-2017
@@ -366,6 +366,34 @@ function selectStartFrame () {
 	# head -n 1
 }
 
+function listCFGs () {
+        basename=$(selectBasename $1 $2 $3 $4)
+        # echo "shotName is $shotName"
+
+        if [ -e temp/listCFGs.txt ]
+        then
+                rm -rf temp/listCFGs.txt
+        fi
+
+        # Make an empty file to populate
+        touch temp/listCFGs.txt
+
+        while read cfgs
+        do
+                echo $cfgs >> temp/listCFGs.txt
+        done < <( ls -1 /media/gh/$shotName\_rend/ | grep $basename | grep cfg | awk -F "." '{print $2}' | sort -u )
+}
+
+# Select CFG
+function selectCFG () {
+        CFGs=$(listCFGs $1 $2 $3 $4 $5)
+
+        while read cfg
+        do
+                echo $cfg
+        done < <( sed -n $5p temp/listCFGs.txt )
+}
+
 # Select End Frame
 function selectEndFrame () {
         frames=$(listFrames $1 $2 $3 $4)
@@ -413,6 +441,18 @@ function totalFrames () {
                 echo $totalFrames
         done < <( wc -l temp/listFrames.txt  | awk '{print $1}')
 }
+
+# Total CFGs
+function totalCFGs () {
+        listCFGs $1 $2 $3 $4
+        totalCFGs=0
+
+        while read totalCFGs
+        do
+                echo $totalCFGs
+        done < <( wc -l temp/listCFGs.txt  | awk '{print $1}')
+}
+
 
 # Does an MP4 Exist?
 function mp4Exist () {
@@ -649,6 +689,7 @@ function main () {
 
 								# Foreach frame
 								totalFrames=$(totalFrames $currentSeries $currentShow $currentShot $currentBasename)
+								totalCFGs=$(totalCFGs $currentSeries $currentShow $currentShot $currentBasename)
 								# If totalFrames is equal to ($endFrame - $startFrame) + 1. The $step is 1
 
 								# Else If totalFrames is equal to (($endFrame - $startFrame) + 2)/2. The $step is 2
@@ -656,20 +697,26 @@ function main () {
 								echo "totalFrames is $totalFrames"
 								if [ "$totalFrames" -gt 0 ]
 								then
-									for ((currentFrame=1;currentFrame<=totalFrames;currentFrame++))
-									do
-										frame=$(selectFrame $currentSeries $currentShow $currentShot $currentBasename $currentFrame)
-										echo "checking $basename.$frame.png"
+									# for ((currentFrame=1;currentFrame<=totalFrames;currentFrame++))
+									# do
+									# 	frame=$(selectFrame $currentSeries $currentShow $currentShot $currentBasename $currentFrame)
+									# 	echo "checking $basename.$frame.png"
 										# Foreach basename check if all CFG's have a corresponding PNG file.  If they do we know we can
 										# proceed in making an MP4
-										matchCFGPNG=$(matchCFGPNG $currentSeries $currentShow $currentShot $currentBasename $frame)
-										if [ "$matchCFGPNG" -eq 0 ]
-										then
-											echo "Found a CFG that doesn't have a corresponding PNG. This shot is still rendering."
-											renderComplete=0
-											break
-										fi
-									done
+									# 	matchCFGPNG=$(matchCFGPNG $currentSeries $currentShow $currentShot $currentBasename $frame)
+									# 	if [ "$matchCFGPNG" -eq 0 ]
+									# 	then
+									#		echo "Found a CFG that doesn't have a corresponding PNG. This shot is still rendering."
+									#		renderComplete=0
+									#		break
+									#	fi
+									# done
+
+									if [ "$totalFrames" -ne "$totalCFGs" ]
+									then
+										echo "This shot is still rendering."
+										renderComplete=0
+									fi
 
 									if [ "$renderComplete" -eq 1 ]
 									then
