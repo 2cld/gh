@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# This was saved as mp4Service4.sh
+# This was saved as mp4Service5.sh
 # mp4Service
-# Version 0.1.1
-# 04-19-2017
+# Version 0.1.2
+# 04-28-2018
 
 
 # This script should be run to take all of the shots on the G: drive that have completed rendering 
@@ -17,13 +17,13 @@
 # and can be converted into an mp4 as long as a mp4 does not already exist, or one is not 
 # currently being created.
 
-# Foreach directories in /media/gh/ that end with _rend
+# Foreach directories in /media/farm/ that end with _rend
 # function rendFoldersList () {
 
 # 	while read rendFolders
 # 	do
 # 		echo "rendFolders is $rendFolders"
-# 	done < <( ls -1 /media/gh/ | grep "_rend" )
+# 	done < <( ls -1 /media/farm/ | grep "_rend" )
 # }
 
 # listRendFolders
@@ -44,7 +44,7 @@ function listRendFolders () {
 		# rendFoldersList[$count]=$rendFolders
 		echo "$rendFolders" >> temp/listRendFolders.txt
 		# count=$($count+1))
-	done < <( ls -1 /media/gh/ | grep "_rend" )
+	done < <( ls -1 /media/farm/ | grep "_rend" )
 }
 
 # Test of function
@@ -265,7 +265,7 @@ function listBucketFiles () {
         while read bucketFiles
         do
                 echo $bucketFiles >> temp/listBucketFiles.txt
-        done < <( ls -1 /media/gh/$shotName\_rend/ )
+        done < <( ls -1 /media/farm/$shotName\_rend/ )
 }
 
 # echo "Writing list of all bucket files to disk"
@@ -288,7 +288,7 @@ function listBasenames () {
 	while read basenames
 	do
 		echo $basenames >> temp/listBasenames.txt
-	done < <( ls -1 /media/gh/$shotName\_rend/  | awk -F "." '{print $1}' | sort -u )
+	done < <( ls -1 /media/farm/$shotName\_rend/  | awk -F "." '{print $1}' | sort -u )
 }
 
 # echo "Writing basenames to disk"
@@ -341,7 +341,7 @@ function listFrames () {
         while read frames
         do
                 echo $frames >> temp/listFrames.txt
-        done < <( ls -1 /media/gh/$shotName\_rend/ | grep $basename | grep png | awk -F "." '{print $2}' | sort -u )
+        done < <( ls -1 /media/farm/$shotName\_rend/ | grep $basename | grep png | awk -F "." '{print $2}' | sort -u )
 }
 
 # Select Frame
@@ -381,7 +381,7 @@ function listCFGs () {
         while read cfgs
         do
                 echo $cfgs >> temp/listCFGs.txt
-        done < <( ls -1 /media/gh/$shotName\_rend/ | grep $basename | grep cfg | awk -F "." '{print $2}' | sort -u )
+        done < <( ls -1 /media/farm/$shotName\_rend/ | grep $basename | grep cfg | awk -F "." '{print $2}' | sort -u )
 }
 
 # Select CFG
@@ -462,7 +462,7 @@ function mp4Exist () {
 	# echo "rendBucketName is $rendBucketName"
 	local basename=$(selectBasename $1 $2 $3 $4)
 	# echo "basename is $basename"
-	local mp4Path=/media/gh/$rendBucketName/$basename.mp4
+	local mp4Path=/media/farm/$rendBucketName/$basename.mp4
 	# echo "mp4Path is $mp4Path"
 	if [ -e $mp4Path ]
 	then
@@ -485,7 +485,7 @@ function mp4LockExist () {
         # echo "rendBucketName is $rendBucketName"
         local basename=$(selectBasename $1 $2 $3 $4)
         # echo "basename is $basename"
-        local mp4Path=/media/gh/$rendBucketName/$basename.mp4Lock
+        local mp4Path=/media/farm/$rendBucketName/$basename.mp4Lock
         # echo "mp4Path is $mp4Path"
         if [ -e $mp4Path ]
         then
@@ -525,7 +525,7 @@ function matchCFGPNG () {
 	# echo "projectName is $projectName"
 	local rendBucketName=$(selectRendBucket $1 $2 $3)
 	# echo "rendBucketName is $rendBucketName"
-	local ghPath=/media/gh/$rendBucketName/
+	local ghPath=/media/farm/$rendBucketName/
 	local basename=$(selectBasename $1 $2 $3 $4)
 	# echo "basename to match is $basename"
 	local imageMatch=0
@@ -571,7 +571,7 @@ function selectDailiesDate () {
 
 function main () {
         # Cleaning up the temp directory
-        rm -rf /media/gh/ghbin/grender/temp/*
+        rm -rf /media/farm/ghbin/grender/temp/*
 
 	# create a list of all the rend folders on the G drive.
 	listRendFolders
@@ -637,7 +637,7 @@ function main () {
 						# Do Basename Stuff
 						basename=$(selectBasename $currentSeries $currentShow $currentShot $currentBasename)
 						echo "current basename is $basename"
-						ghPath=/media/gh/$rendBucket/
+						ghPath=/media/farm/$rendBucket/
 						echo "ghPath is $ghpath"
 
 						# Get the shots movies production path. 
