@@ -1,25 +1,10 @@
 <!DOCTYPE html>
 <html>
   <body>
-    
-    <div id="displayfile">Below displays http://gh.2cld.net/docs/overview.md</div>
-    <hr/>
-    <div id="mdfile"> </div>
-    <script src="../markdown.js"></script>
-    <script src="../showdown.min.js"></script>
-    <script>
-      var mdtext;    
-      var $ = function (id) { return document.getElementById(id); };
-      var converter = new showdown.Converter();
-      converter.setFlavor('github');
-      function Checkmd(testmd, mdtext) { 
-        //testmd.innerHTML = markdown.toHTML(mdtext, 'Gruber'); 
-        testmd.innerHTML = converter.makeHtml(mdtext, 'Gruber'); 
-      }
-      // https://www.markdownguide.org/cheat-sheet/
-      fetch("overview.md")
-            .then( response => response.text() )
-            .then( text => new Checkmd($("mdfile"), text) );
-    </script>
+    <h1>gh Blender Render Grid</h1>
+    <ol>
+      <li><a href="overview.html">Overview</a></li>
+      <li><a href="bn000template.html">bn000template</a> setup</li>
+    </ol>
   </body>
 </html>
