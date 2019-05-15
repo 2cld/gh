@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# This was in the directory as nodeRenderService2.sh
 # BLARGH!
 # Version 0.6.03
 # 04-04-2017
