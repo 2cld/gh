@@ -9,32 +9,32 @@ gh site buildout generics
 - [192.168.9.2](http://192.168.9.2) FreeNAS root-What#Time
 - [192.168.9.3](http://192.168.9.3) GitLAB root-What#Time
 - [192.168.9.4](http://192.168.9.4) nginx (was tobe the inbound web proxy config through freenas)
-- [192.168.9.9](http://192.168.9.9) HPE BladeSystem Onboard Admin (use firefox) admin-What#Time
 
 ### Grid Infra DHCP - for stuff that may need to grab IP via DHCP
 - 192.168.9.20-99 DHCP via 192.168.9.1 
-- [192.168.9.72](http://192.168.9.72) Cisco Switch in HPE (DHCP) (use firefox)
-- [192.168.9.40](http://192.168.9.40) ILO HPE (DHCP) (use firefox)
-- [192.168.9.62](http://192.168.9.62) ILO HPE (DHCP) (use firefox)
-- [192.168.9.72](http://192.168.9.72) Cisco Switch in HPE (DHCP) (use firefox)
+- [3C:07:54:72:49:E2 - 192.168.9.20](http://192.168.9.20) catmini - workstation
+- [00:1A:4B:CD:01:95 - 192.168.9.21](http://192.168.9.21) HPE BladeSystem Onboard Admin (use firefox) Administrator-What#Time
+- [messed up - 192.168.9.xx](http://192.168.9.xx) Cisco Switch in HPE (DHCP) (use firefox)
+- [VARIOUS - 192.168.9.180-250](---) ILO HPE
+
 
 ### Grid Infra static back HPE BladeStack
-- [192.168.9.221:8009](https://192.168.9.221:8009) ProxMox pm1  (master node) root-Color#What!
-- [192.168.9.222:8009](https://192.168.9.222:8009) ProxMox pm2 (cluster node)
-- [192.168.9.223:8009](https://192.168.9.223:8009) ProxMox pm3 (cluster node)
-- [192.168.9.224:8009](https://192.168.9.224:8009) ProxMox pm4 (cluster node)
-- [192.168.9.225:8009](https://192.168.9.225:8009) ProxMox pm5 (cluster node)
-- [192.168.9.226:8009](https://192.168.9.226:8009) ProxMox pm6 (cluster node)
-- [192.168.9.227:8009](https://192.168.9.227:8009) ProxMox pm7 (cluster node)
-- [192.168.9.228:8009](https://192.168.9.228:8009) ProxMox pm8 (cluster node)
-- [192.168.9.229:8009](https://192.168.9.229:8009) ProxMox pm9 (cluster node)
-- [192.168.9.230:8009](https://192.168.9.230:8009) ProxMox pm10 (cluster node)
-- [192.168.9.231:8009](https://192.168.9.231:8009) ProxMox pm11 (cluster node)
-- [192.168.9.232:8009](https://192.168.9.232:8009) ProxMox pm12 (cluster node)
-- [192.168.9.233:8009](https://192.168.9.233:8009) ProxMox pm13 (cluster node)
-- [192.168.9.234:8009](https://192.168.9.234:8009) ProxMox pm14 (cluster node)
-- [192.168.9.235:8009](https://192.168.9.235:8009) ProxMox pm15 (cluster node)
-- [192.168.9.236:8009](https://192.168.9.236:8009) ProxMox pm16 (cluster node)
+- [3C:4A:92:F7:62:30 - 192.168.9.121:8009](https://192.168.9.221:8009) ProxMox pm1  (master node) root-Color#What!
+- [98:4B:E1:61:3E:20 - 192.168.9.122:8009](https://192.168.9.222:8009) ProxMox pm2 (cluster node)
+- [98:4B:E1:62:01:A8 - 192.168.9.123:8009](https://192.168.9.223:8009) ProxMox pm3 (cluster node)
+- [192.168.9.124:8009](https://192.168.9.224:8009) ProxMox pm4 (cluster node)
+- [192.168.9.125:8009](https://192.168.9.225:8009) ProxMox pm5 (cluster node)
+- [192.168.9.126:8009](https://192.168.9.226:8009) ProxMox pm6 (cluster node)
+- [192.168.9.127:8009](https://192.168.9.227:8009) ProxMox pm7 (cluster node)
+- [192.168.9.128:8009](https://192.168.9.228:8009) ProxMox pm8 (cluster node)
+- [192.168.9.129:8009](https://192.168.9.229:8009) ProxMox pm9 (cluster node)
+- [192.168.9.130:8009](https://192.168.9.230:8009) ProxMox pm10 (cluster node)
+- [192.168.9.131:8009](https://192.168.9.231:8009) ProxMox pm11 (cluster node)
+- [192.168.9.132:8009](https://192.168.9.232:8009) ProxMox pm12 (cluster node)
+- [192.168.9.133:8009](https://192.168.9.233:8009) ProxMox pm13 (cluster node)
+- [192.168.9.134:8009](https://192.168.9.234:8009) ProxMox pm14 (cluster node)
+- [192.168.9.135:8009](https://192.168.9.235:8009) ProxMox pm15 (cluster node)
+- [192.168.9.136:8009](https://192.168.9.236:8009) ProxMox pm16 (cluster node)
 
 ## FreeBSD Gateway Router (not working)
 - Look at the routes: netstat -rn
@@ -88,7 +88,12 @@ gh site buildout generics
   - IP: 192.168.9.221 NM: 24 GW: 192.168.9.1
  
 ## Reference docs
-
+- [CreateCluster Video](https://youtu.be/s9FODQi2-20?t=79)
+- [CreateTemplate Video](https://www.youtube.com/watch?v=8qwnXd1yRK4&t=752s)
+- [CreateContainer Video](https://youtu.be/cyjXxsQ8Igw?t=8)
+- [ProxMox Interface](https://youtu.be/GHzMaTar0fw?t=5)
+- [CreateImage via ISO](https://youtu.be/BiIFLFhXByE?t=105)
+- [Install ProxMox](https://youtu.be/MO4CaHn1EjM?t=96)
 - [gh.2cld.net cat9box](https://docs.google.com/spreadsheets/d/1cPcjizKYg8XDHQctY8t1wBhW3g6rClCJ6O_DGaXIscI/edit#gid=1544884858)
 - [2cld-NetworkLayout](https://docs.google.com/spreadsheets/d/1fIs0hXZehy1KZmvjHQ6srktOA0otWPfx2Bo0VUg2oa4/edit?ts=5cd30e41#gid=0) via christrees@gmail.com
 - [2cld-DataCenterLayout](https://docs.google.com/spreadsheets/d/1QBA9OzsOhxs5W3kwlhxLZCmulFgd5uHMqu2qgrbMdxE/edit#gid=0) via admin@2cld.net (me)
