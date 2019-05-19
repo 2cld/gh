@@ -21,8 +21,9 @@ Blender 2.79 (sub 0)
 192.168.9.2:/mnt/MediaVolume/farm /media/farm nfs auto,nofail,noatime,nolock,intr,tcp,actimeo=1800 0 0
 ```
 7. ghadmin@bn000template:~$ sudo mkdir /media/farm && sudo mount -a
-8. ghadmin@bn000template:~$ cp /media/farm/ghbin/nodeService.sh .
-9. ghadmin@bn000template:~$ sudo poweroff
+8. ghadmin@bn000template:~$ cp /media/farm/ghbin/nodeRenderService.sh .
+9. ghadmin@bn000template:~$ sudo chmod +x nodeRenderService.sh 
+10. ghadmin@bn000template:~$ sudo poweroff
 
 ### Cloud-init Configure
 1. ghadmin@bn000template:~$ sudo apt install cloud-init
