@@ -79,13 +79,44 @@ gh site buildout generics
 
 ## Test PXE boot
 
-## Install proxmox
+## Proxmox
+
+### proxmox install
 
 - USB key boot
 - Install options
   - root-Color#What!
-  - FQDN: pm1.2cld.net
+  - FQDN: pm01-gh.2cld.net
   - IP: 192.168.9.221 NM: 24 GW: 192.168.9.1
+
+### proxmox storage
+- Create CIFS (samba) storage
+- Datacenter -> Storage -> Add -> CIFS
+   - ID: GridShare
+   - Server: 192.168.9.2 (freenas)
+   - Username: ghadmin (What#time)
+   - Share: GridShare
+   - Content: Disk Image, ISO Image
+
+### proxmox vm 
+[CreateTemplate Video](https://www.youtube.com/watch?v=8qwnXd1yRK4&t=752s)
+
+
+### proxmox cluster
+[CreateCluster Video](https://youtu.be/s9FODQi2-20?t=79)
+
+- on pm01-gh: 
+    - Datacenter -> Cluster -> Create Cluster -> Cluster Name: ghcluster (Create)
+    - Datacenter -> Cluster -> Join Information (Copy Information)
+- on pm02-gh: 
+    - Datacenter -> Cluster -> Join Cluster -> (Paste Information)
+    - input pm01-gh root password
+    - click JOIN
+- after refresh... should see both nodes
+- repeat for nodes pm03-gh to pm16-gh
+- Now clone and migrate vm to the nodes
+
+   
  
 ## Reference docs
 - [CreateCluster Video](https://youtu.be/s9FODQi2-20?t=79)
