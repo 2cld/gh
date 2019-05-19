@@ -2,6 +2,9 @@
 
 nodeRenderService.sh uses /media/farm nfs mount to control render nodes collect render jobs
 
+## nodeService.sh /media/farm Storage Diagram
+![nodeServiceDiagram](ghOverviewDiagram-nodeServiceDiagram.svg)
+
 ## /media/farm structure
 
 ### /media/farm/ghbin
