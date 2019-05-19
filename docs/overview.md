@@ -2,6 +2,8 @@
 
 gh site buildout generics
 
+![ghOverviewDiagram](ghOverviewDiagram.svg)
+
 ## Stations
 
 ### Grid Infra front
