@@ -1,0 +1,1192 @@
+  Current Node Settings: Sat May 18 20:27:53 CDT 2019
+  Current Loop Count: 1261
+  nodeRenderServiceConfigValues
+  =============================
+  nodeType is used for blender command mod where 1 - server 2 - desktop
+  current nodeType: 1
+  -----------------------------
+  nodePath is used by node to access project configs and job assets
+  current nodePath: /media/farm/
+  -----------------------------
+  nodeProjectConfigDir is used by node to access project
+  current nodeProjectConfigDir: /media/farm/ghprojects/
+  -----------------------------
+ ___CODE: function getProject
+fileOfJobPrior: /media/farm/ghprojects//jobPriority.list
+setting current job project to: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.cfg
+Loading currentScanPath job project on Sat May 18 20:27:53 CDT 2019
+currentScanPathConfigFilePath is: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.cfg
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0002.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0002.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0002.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0003.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0003.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0003.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0004.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0004.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0004.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0005.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0005.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0005.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0006.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0006.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0006.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0007.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0007.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0007.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0008.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0008.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0008.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0009.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0009.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0009.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0010.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0010.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0010.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0011.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0011.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0011.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0012.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0012.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0012.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0013.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0013.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0013.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0014.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0014.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0014.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0015.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0015.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0015.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0016.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0016.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0016.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0017.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0017.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0017.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0018.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0018.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0018.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0019.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0019.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0019.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0020.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0020.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0020.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0021.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0021.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0021.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0022.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0022.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0022.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0023.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0023.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0023.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0024.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0024.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0024.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0025.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0025.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0025.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0026.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0026.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0026.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0027.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0027.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0027.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0028.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0028.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0028.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0029.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0029.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0029.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0030.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0030.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0030.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0031.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0031.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0031.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0032.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0032.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0032.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0033.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0033.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0033.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0034.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0034.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0034.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0035.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0035.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0035.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0036.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0036.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0036.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0037.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0037.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0037.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0038.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0038.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0038.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0039.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0039.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0039.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0040.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0040.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0040.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0041.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0041.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0041.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0042.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0042.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0042.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0043.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0043.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0043.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0044.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0044.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0044.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0045.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0045.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0045.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0046.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0046.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0046.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0047.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0047.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0047.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0048.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0048.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0048.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0049.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0049.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0049.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0050.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0050.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0050.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0051.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0051.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0051.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0052.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0052.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0052.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0053.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0053.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0053.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0054.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0054.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0054.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0055.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0055.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0055.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0056.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0056.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0056.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0057.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0057.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0057.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0058.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0058.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0058.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0059.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0059.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0059.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0060.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0060.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0060.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0061.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0061.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0061.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0062.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0062.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0062.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0063.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0063.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0063.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0064.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0064.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0064.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0065.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0065.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0065.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0066.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0066.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0066.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0067.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0067.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0067.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0068.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0068.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0068.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0069.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0069.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0069.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0070.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0070.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0070.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0071.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0071.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0071.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0072.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0072.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0072.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0073.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0073.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0073.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0074.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0074.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0074.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0075.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0075.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0075.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0076.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0076.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0076.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0077.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0077.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0077.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0078.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0078.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0078.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0079.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0079.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0079.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0080.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0080.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0080.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0081.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0081.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0081.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0082.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0082.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0082.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0083.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0083.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0083.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0084.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0084.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0084.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0085.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0085.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0085.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0086.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0086.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0086.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0087.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0087.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0087.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0088.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0088.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0088.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0089.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0089.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0089.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0090.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0090.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0090.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0091.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0091.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0091.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0092.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0092.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0092.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0093.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0093.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0093.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0094.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0094.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0094.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0095.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0095.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0095.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0096.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0096.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0096.lock
+jobPriority.list is rescanning at: Sat May 18 20:27:53 CDT 2019
+ ___CODE: function cleanUpHome
+ ___CODE: function getProject
+fileOfJobPrior: /media/farm/ghprojects//jobPriority.list
+setting current job project to: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.cfg
+Loading currentScanPath job project on Sat May 18 20:28:03 CDT 2019
+currentScanPathConfigFilePath is: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.cfg
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0002.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0002.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0002.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0003.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0003.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0003.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0004.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0004.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0004.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0005.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0005.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0005.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0006.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0006.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0006.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0007.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0007.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0007.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0008.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0008.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0008.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0009.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0009.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0009.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0010.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0010.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0010.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0011.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0011.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0011.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0012.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0012.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0012.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0013.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0013.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0013.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0014.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0014.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0014.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0015.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0015.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0015.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0016.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0016.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0016.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0017.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0017.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0017.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0018.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0018.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0018.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0019.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0019.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0019.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0020.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0020.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0020.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0021.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0021.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0021.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0022.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0022.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0022.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0023.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0023.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0023.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0024.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0024.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0024.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0025.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0025.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0025.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0026.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0026.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0026.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0027.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0027.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0027.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0028.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0028.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0028.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0029.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0029.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0029.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0030.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0030.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0030.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0031.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0031.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0031.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0032.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0032.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0032.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0033.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0033.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0033.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0034.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0034.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0034.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0035.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0035.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0035.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0036.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0036.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0036.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0037.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0037.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0037.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0038.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0038.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0038.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0039.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0039.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0039.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0040.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0040.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0040.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0041.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0041.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0041.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0042.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0042.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0042.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0043.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0043.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0043.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0044.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0044.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0044.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0045.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0045.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0045.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0046.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0046.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0046.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0047.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0047.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0047.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0048.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0048.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0048.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0049.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0049.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0049.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0050.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0050.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0050.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0051.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0051.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0051.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0052.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0052.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0052.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0053.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0053.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0053.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0054.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0054.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0054.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0055.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0055.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0055.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0056.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0056.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0056.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0057.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0057.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0057.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0058.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0058.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0058.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0059.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0059.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0059.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0060.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0060.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0060.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0061.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0061.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0061.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0062.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0062.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0062.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0063.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0063.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0063.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0064.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0064.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0064.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0065.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0065.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0065.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0066.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0066.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0066.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0067.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0067.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0067.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0068.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0068.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0068.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0069.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0069.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0069.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0070.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0070.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0070.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0071.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0071.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0071.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0072.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0072.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0072.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0073.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0073.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0073.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0074.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0074.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0074.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0075.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0075.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0075.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0076.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0076.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0076.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0077.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0077.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0077.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0078.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0078.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0078.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0079.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0079.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0079.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0080.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0080.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0080.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0081.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0081.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0081.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0082.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0082.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0082.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0083.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0083.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0083.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0084.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0084.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0084.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0085.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0085.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0085.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0086.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0086.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0086.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0087.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0087.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0087.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0088.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0088.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0088.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0089.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0089.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0089.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0090.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0090.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0090.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0091.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0091.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0091.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0092.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0092.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0092.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0093.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0093.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0093.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0094.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0094.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0094.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0095.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0095.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0095.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0096.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0096.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0096.lock
+jobPriority.list is rescanning at: Sat May 18 20:28:03 CDT 2019
+ ___CODE: function cleanUpHome
+ ___CODE: function getProject
+fileOfJobPrior: /media/farm/ghprojects//jobPriority.list
+setting current job project to: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.cfg
+Loading currentScanPath job project on Sat May 18 20:28:13 CDT 2019
+currentScanPathConfigFilePath is: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.cfg
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0002.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0002.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0002.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0003.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0003.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0003.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0004.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0004.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0004.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0005.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0005.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0005.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0006.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0006.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0006.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0007.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0007.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0007.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0008.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0008.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0008.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0009.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0009.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0009.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0010.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0010.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0010.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0011.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0011.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0011.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0012.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0012.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0012.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0013.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0013.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0013.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0014.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0014.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0014.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0015.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0015.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0015.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0016.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0016.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0016.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0017.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0017.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0017.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0018.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0018.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0018.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0019.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0019.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0019.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0020.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0020.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0020.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0021.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0021.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0021.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0022.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0022.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0022.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0023.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0023.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0023.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0024.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0024.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0024.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0025.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0025.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0025.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0026.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0026.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0026.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0027.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0027.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0027.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0028.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0028.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0028.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0029.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0029.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0029.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0030.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0030.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0030.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0031.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0031.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0031.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0032.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0032.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0032.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0033.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0033.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0033.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0034.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0034.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0034.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0035.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0035.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0035.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0036.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0036.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0036.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0037.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0037.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0037.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0038.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0038.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0038.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0039.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0039.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0039.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0040.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0040.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0040.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0041.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0041.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0041.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0042.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0042.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0042.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0043.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0043.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0043.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0044.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0044.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0044.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0045.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0045.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0045.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0046.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0046.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0046.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0047.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0047.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0047.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0048.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0048.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0048.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0049.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0049.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0049.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0050.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0050.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0050.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0051.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0051.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0051.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0052.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0052.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0052.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0053.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0053.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0053.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0054.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0054.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0054.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0055.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0055.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0055.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0056.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0056.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0056.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0057.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0057.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0057.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0058.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0058.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0058.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0059.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0059.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0059.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0060.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0060.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0060.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0061.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0061.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0061.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0062.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0062.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0062.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0063.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0063.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0063.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0064.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0064.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0064.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0065.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0065.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0065.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0066.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0066.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0066.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0067.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0067.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0067.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0068.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0068.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0068.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0069.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0069.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0069.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0070.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0070.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0070.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0071.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0071.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0071.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0072.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0072.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0072.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0073.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0073.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0073.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0074.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0074.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0074.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0075.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0075.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0075.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0076.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0076.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0076.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0077.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0077.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0077.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0078.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0078.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0078.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0079.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0079.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0079.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0080.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0080.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0080.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0081.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0081.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0081.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0082.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0082.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0082.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0083.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0083.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0083.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0084.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0084.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0084.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0085.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0085.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0085.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0086.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0086.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0086.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0087.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0087.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0087.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0088.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0088.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0088.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0089.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0089.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0089.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0090.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0090.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0090.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0091.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0091.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0091.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0092.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0092.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0092.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0093.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0093.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0093.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0094.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0094.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0094.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0095.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0095.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0095.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0096.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0096.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0096.lock
+jobPriority.list is rescanning at: Sat May 18 20:28:13 CDT 2019
+ ___CODE: function cleanUpHome
+ ___CODE: function getProject
+fileOfJobPrior: /media/farm/ghprojects//jobPriority.list
+setting current job project to: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.cfg
+Loading currentScanPath job project on Sat May 18 20:28:23 CDT 2019
+currentScanPathConfigFilePath is: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.cfg
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0001.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0002.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0002.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0002.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0003.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0003.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0003.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0004.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0004.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0004.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0005.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0005.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0005.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0006.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0006.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0006.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0007.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0007.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0007.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0008.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0008.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0008.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0009.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0009.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0009.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0010.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0010.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0010.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0011.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0011.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0011.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0012.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0012.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0012.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0013.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0013.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0013.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0014.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0014.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0014.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0015.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0015.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0015.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0016.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0016.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0016.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0017.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0017.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0017.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0018.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0018.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0018.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0019.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0019.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0019.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0020.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0020.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0020.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0021.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0021.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0021.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0022.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0022.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0022.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0023.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0023.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0023.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0024.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0024.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0024.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0025.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0025.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0025.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0026.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0026.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0026.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0027.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0027.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0027.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0028.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0028.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0028.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0029.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0029.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0029.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0030.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0030.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0030.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0031.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0031.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0031.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0032.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0032.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0032.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0033.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0033.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0033.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0034.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0034.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0034.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0035.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0035.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0035.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0036.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0036.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0036.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0037.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0037.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0037.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0038.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0038.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0038.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0039.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0039.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0039.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0040.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0040.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0040.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0041.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0041.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0041.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0042.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0042.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0042.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0043.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0043.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0043.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0044.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0044.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0044.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0045.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0045.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0045.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0046.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0046.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0046.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0047.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0047.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0047.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0048.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0048.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0048.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0049.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0049.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0049.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0050.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0050.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0050.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0051.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0051.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0051.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0052.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0052.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0052.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0053.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0053.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0053.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0054.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0054.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0054.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0055.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0055.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0055.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0056.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0056.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0056.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0057.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0057.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0057.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0058.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0058.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0058.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0059.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0059.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0059.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0060.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0060.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0060.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0061.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0061.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0061.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0062.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0062.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0062.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0063.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0063.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0063.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0064.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0064.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0064.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0065.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0065.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0065.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0066.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0066.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0066.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0067.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0067.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0067.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0068.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0068.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0068.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0069.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0069.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0069.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0070.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0070.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0070.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0071.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0071.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0071.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0072.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0072.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0072.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0073.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0073.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0073.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0074.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0074.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0074.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0075.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0075.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0075.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0076.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0076.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0076.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0077.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0077.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0077.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0078.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0078.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0078.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0079.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0079.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0079.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0080.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0080.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0080.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0081.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0081.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0081.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0082.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0082.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0082.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0083.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0083.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0083.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0084.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0084.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0084.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0085.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0085.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0085.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0086.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0086.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0086.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0087.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0087.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0087.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0088.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0088.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0088.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0089.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0089.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0089.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0090.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0090.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0090.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0091.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0091.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0091.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0092.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0092.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0092.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0093.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0093.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0093.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0094.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0094.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0094.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0095.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0095.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0095.lock
+ ___CODE: CALL function checkProjectJob /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0096.cfg
+CheckingFrameLock: /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0096.lock
+Moving to next, lock found on /media/farm/0215_002_0007A_rend/0215_002_0007A_3danim_v002.0096.lock
+jobPriority.list is rescanning at: Sat May 18 20:28:23 CDT 2019
