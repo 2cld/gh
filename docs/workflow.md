@@ -19,6 +19,9 @@ Purpose: Data flow overview for Grasshorse Blender Render Grid.
 1. Admin - Transfer complete jobs to _dailies and project rend directory
 1. Director / Artist / Admin - Process Feedback and submit FIX Job Tickets.
 
+## nodeService.sh Diagram
+![nodeServiceDiagram](ghOverviewDiagram-nodeServiceDiagram.svg)
+
 ## Data Flow and Event Process
 1. Admin - Create Project - MAGMA creates structure
 1. Outputs ToProcess.sh in /media/process/toProcess.sh
