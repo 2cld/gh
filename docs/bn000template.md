@@ -20,7 +20,7 @@ Blender 2.79 (sub 0)
 # Add to bottom of /etc/fstab for render farm share
 192.168.9.2:/mnt/MediaVolume/farm /media/farm nfs auto,nofail,noatime,nolock,intr,tcp,actimeo=1800 0 0
 ```
-7. ghadmin@bn000template:~$ sudo mount -a
+7. ghadmin@bn000template:~$ sudo mkdir /media/farm && sudo mount -a
 8. ghadmin@bn000template:~$ cp /media/farm/ghbin/nodeService.sh .
 9. ghadmin@bn000template:~$ sudo poweroff
 
