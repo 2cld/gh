@@ -14,6 +14,15 @@
 ```
 Blender 2.79 (sub 0)
 ```
+5. ghadmin@bn000template:~$ sudo apt install nfs-common
+6. ghadmin@bn000template:~$ sudo vi /etc/fstab
+```
+# Add to bottom of /etc/fstab for render farm share
+192.168.9.2:/mnt/MediaVolume/farm /media/farm nfs auto,nofail,noatime,nolock,intr,tcp,actimeo=1800 0 0
+```
+7. ghadmin@bn000template:~$ sudo mount -a
+8. ghadmin@bn000template:~$ cp /media/farm/ghbin/nodeService.sh .
+9. ghadmin@bn000template:~$ sudo poweroff
 
 ### Cloud-init Configure
 1. ghadmin@bn000template:~$ sudo apt install cloud-init
@@ -99,7 +108,7 @@ Blender 2.79 (sub 0)
   - Datacenter -> pm02-gh -> bn01 -> Hardware -> click Add -> CloudInit Drive
   
 ### Start vm
-1. ssh root@192.168.9.122
+1. ssh root@192.168.9.121
 2. qm list
 3. qm start <VMID>
   
