@@ -2,6 +2,7 @@
 
 ## Create bare min ghrender.service
 ```
+ghadmin@bn01:~$ cp /media/farm/ghbin/nodeRenderService.sh .
 ghadmin@bn01:~$ sudo touch /etc/systemd/system/ghrender.service
 ghadmin@bn01:~$ sudo chmod 664 /etc/systemd/system/ghrender.service 
 ghadmin@bn01:~$ sudo vi /etc/systemd/system/ghrender.service 
@@ -18,10 +19,18 @@ WantedBy=multi-user.target
 ## Load, start, stop and enable on 'startup'
 ```
 ghadmin@bn01:~$ sudo systemctl daemon-reload
-ghadmin@bn01:~$ sudo systemctl start ghrender
-ghadmin@bn01:~$ sudo systemctl stop ghrender
 ghadmin@bn01:~$ sudo systemctl enable ghrender
 Created symlink /etc/systemd/system/multi-user.target.wants/ghrender.service → /etc/systemd/system/ghrender.service.
+
+ghadmin@bn01:~$ sudo systemctl start ghrender
+ghadmin@bn01:~$ sudo systemctl stop ghrender
+```
+
+### Verify by checking log
+```
+ghadmin@bn02:~$ cat /media/farm/ghlogs/gridNodes.list 
+Tue May 21 19:38:55 UTC 2019 STARTED: bn02
+Tue May 21 19:38:55 UTC 2019 ALLSTOP: bn02
 ```
 
 # Check the service logs
