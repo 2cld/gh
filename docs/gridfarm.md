@@ -70,7 +70,28 @@ contains project_rend project_zip
 #### /media/farm/PPPP_SSS_EEEEV_rend
 contains frame.cfg frame.lock frame.png this is the 'work distribution and output collection' directory
 
-- frame.cfg - configure information used to feed blender render command
-- frame.lock - ghrender bid / locking for node sync
+- frame.cfg 
+   - configure information used to feed blender render command
+```
+zipBucket='/media/farm/0215_002_0007A_zip/'
+rendBucket='/media/farm/0215_002_0007A_rend/'
+zip='0215_002_0007A_3danim_v002.zip'
+blend='0215_002_0007A_3danim_v002.blend'
+fileName='0215_002_0007A_3danim_v002'
+frameName='0215_002_0007A_3danim_v002.0001'
+start='0001'
+end='0001'
+step='1'
+```
+- frame.lock 
+   - ghrender bid / locking for node sync
+```
+blamURL=bn01
+bidCreated='Mon May 20 23:19:38 UTC 2019'
+bidWon='Mon May 20 23:19:39 UTC 2019'
+```
 - frame.png - output render
+   - initially, the rendernode will create the frame.png with touch (empty file) while it renders
+   - on completion of local frame.png output by blender, the node check the output and copies it to farm
+  
 
