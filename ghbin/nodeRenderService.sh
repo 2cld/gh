@@ -1,10 +1,8 @@
 #!/bin/bash
 
-# This was in the directory as nodeRenderService3.sh
-
 # BLARGH!
-# Version 0.6.03
-# 04-04-2017
+# Version 0.6.04
+# 05-20-2019 - makeinto service
 
 # nodeRenderService.sh is Chris Trees attempt to make Blargh into a service
 # NOTES:
@@ -110,6 +108,7 @@ EOF
 
 # Pass in projectJobConfig
 function deployProject () {
+	cd $nodeHome
 	source $1
 	echo " ___CODE: function deployProject sourced $1" >> $nodeServiceLogFileName
 	echo "zipBucket is $zipBucket" >> $nodeServiceLogFileName
@@ -165,6 +164,7 @@ function deployProject () {
 function cleanUpHome {
 	echo " ___CODE: function cleanUpHome" >> $nodeServiceLogFileName
 	ghDebug "Cleaning up the home directory."
+	cd $nodeHome
 	rm -rf *.cfg *.png *.tpl *.old *.lock
 	# rm -rf ~/*.cfg ~/*.png ~/*.2s3 ~/*.tpl ~/*.old ~/*.go
 	# s3cmd get s3://ghprojects/*.cfg .
@@ -178,19 +178,19 @@ function beginRender () {
 	echo "frameName is $frameName" >> $nodeServiceLogFileName
 	echo "blend is $blend" >> $nodeServiceLogFileName
 
-	nodeType = 2 ;
+	nodeType=2
 
 	ghRemoteStatusLog $frameName "renderBegin"
 
-	if [ "$nodeType" == "1" ] && [ -e ~/$blend ] && [ ! -e ~/badBlender.txt ]; then
+	if [ "$nodeType" == "1" ] && [ -e $nodeHome$blend ] && [ ! -e $nodeHome"badBlender.txt" ]; then
 		echo "blender server mode started: $(date)" >> $nodeServiceLogFileName
 		blender -b $blend -y -F PNG -o $fileName.#### -s $start -e $end -j $step -t 0 -a > $nodeServiceBlenderLogFileName
 		#echo "BlenderCommand: blender -b $blend -F PNG -o $fileName.#### -s $start -e $end -j $step -t 0 -a"
 		#echo "BlenderSimFile" >> $frameName.png
 		echo "blender server ended: $(date)" >> $nodeServiceLogFileName
-	elif [ "$nodeType" == "2" ] && [ -e ~/$blend ] && [ ! -e ~/badBlender.txt ]; then
+	elif [ "$nodeType" == "2" ] && [ -e $nodeHome$blend ] && [ ! -e $nodeHome"badBlender.txt" ]; then
 		echo "blender desktop mode started: $(date)" >> $nodeServiceLogFileName
-		blender -b $blend -y -F PNG -o $fileName.#### -t 0 -f $start > $nodeServiceBlenderLogFileName
+		blender -b $nodeHome$blend -y -F PNG -o $nodeHome$fileName.#### -t 0 -f $start > $nodeServiceBlenderLogFileName
 		#echo "BlenderCommand: blender -b $blend -F PNG -o $fileName.#### -t 0 -f $start"
 		echo "blender desktop ended: $(date)" >> $nodeServiceLogFileName
 	else
@@ -249,10 +249,10 @@ function checkProjectJob () {
 			local bidWon="bidWon='$(date)'"
 			echo $bidCreated >> $frameLockFile
 			echo $bidWon >> $frameLockFile
-			rm *.cfg
-			cp $rendBucket$frameName.cfg .
-			deployProject $frameName.cfg
-			beginRender $frameName.cfg
+			rm $nodeHome'*.cfg'
+			cp $rendBucket$frameName.cfg $nodeHome
+			deployProject $nodeHome$frameName.cfg
+			beginRender $nodeHome$frameName.cfg
 		else
 			echo "Files different BID FAIL moving on to next frame" >> $nodeServiceLogFileName
 		fi
@@ -271,6 +271,7 @@ function getProject () {
 			allstop)
 				echo "jobPriority.list is at allstop exit service on: $(date)" >> $nodeServiceLogFileName
 				ghRemoteStatusLog "jobPriority.list-allstop" "ServiceStopping"
+				echo "$(date) ALLSTOP: $(hostname)" >> $nodeServiceCentralLogDir'gridNodes.list'
 				exit
 				;;
 			rescan)
@@ -306,13 +307,14 @@ function getProject () {
 #####
 
 # Program has been created with the assumption it is running from the home directory.  Making it so.
-cd
+cd '/home/ghadmin/'
 scanProjectsLoop=0
 scanClearLogs=3
+nodeHome='/home/ghadmin/'
 nodeAssetsPath='/media/farm/'
 nodeServiceCentralLogDir=$nodeAssetsPath'ghlogs/'
 ghRemoteStatusLog "noFrame" "ServiceBegin"
-echo $(hostname) >> $nodeServiceCentralLogDir'gridNodes.list'
+echo "$(date) STARTED: $(hostname)" >> $nodeServiceCentralLogDir'gridNodes.list'
 while true
 do
 	let "scanProjectsLoop++"
@@ -325,12 +327,13 @@ do
 	else
 		debug=0
 		nodeType=1
+		nodeHome='/home/ghadmin/'
 		nodeAssetsPath='/media/farm/'
 		nodeProjectsConfigDir=$nodeAssetsPath'ghprojects/'
-		nodeFileOfJobPrior="$nodeProjectsConfigDir/jobPriority.list"
+		nodeFileOfJobPrior=$nodeProjectsConfigDir'jobPriority.list'
 		nodeScanLoopSleepTime=10
-		nodeServiceLogFileName='nodeService.log'
-		nodeServiceBlenderLogFileName='nodeServiceBlender.log'
+		nodeServiceLogFileName=$nodeHome'nodeService.log'
+		nodeServiceBlenderLogFileName=$nodeHome'nodeServiceBlender.log'
 		nodeServiceCentralLogDir=$nodeAssetsPath'ghlogs/'
 		nodeLogResetLoopCount=3
 	fi
