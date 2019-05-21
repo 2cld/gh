@@ -11,7 +11,7 @@ On catmini (192.168.9.20) I mount farm to /private/nfs to view
 catmini:~ cat$ sudo mount -t nfs 192.168.9.2:/mnt/MediaVolume/farm /private/nfs
 ```
 Should see this
-![ghcluster-farm](ghcluster-farm.svg)
+![ghcluster-farm](ghcluster-farm.png)
 
 ### /media/farm/ghbin
 contains scripts 
