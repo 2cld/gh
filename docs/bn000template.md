@@ -85,6 +85,10 @@ Blender 2.79 (sub 0)
   - sudo rm -rf /var/lib/cloud/seed/nocloud-net
   - sudo poweroff
 4. Start bn01 - Datacenter -> pm01-gh -> bn01 -> Start
+### need to correct on nodes still
+- /etc/fstab (see above)
+- ln -s /media/farm/ghcache/smoke_cashe smoke_cashe
+- [ghrender.service](ghrederService.html)
 
 ### Backup / move vm
 1. Enable your disk to store backups (on both source and destination nodes)
