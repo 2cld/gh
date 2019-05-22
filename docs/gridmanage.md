@@ -67,3 +67,12 @@ May 21 17:25:13 bn01 nodeRenderService.sh[1134]: ALSA lib conf.c:4528:(_snd_conf
     ![ghcluster-blenderRender](ghcluster-blenderRender.png)
 - [Proxmox webui - https://192.168.9.121:8006](https://192.168.9.121:8006/#v1:0:18:3:5::5:7::5=cluster) Datacenter -> Cluster
     ![ghcluster-proxmox](ghcluster-proxmox.png)
+    
+## bn01-console
+![ghcluster-bn01-console](ghcluster-bn01-console.png)
+
+## ghcluster at 100% cpu
+![ghcluster-pegged-CPU](ghcluster-pegged-CPU.png)
+
+## ghcluster power/thermals at 100% cpu
+![ghcluster-pegged-Power](ghcluster-pegged-Power.png)
