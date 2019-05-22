@@ -76,3 +76,6 @@ May 21 17:25:13 bn01 nodeRenderService.sh[1134]: ALSA lib conf.c:4528:(_snd_conf
 
 ## ghcluster power/thermals at 100% cpu
 ![ghcluster-pegged-Power](ghcluster-pegged-Power.png)
+
+## ghcluster power first 24hrs
+![ghcluster-power-24hr](ghcluster-power-24hr.png)
