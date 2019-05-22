@@ -146,3 +146,4 @@ root@pm01-gh:~# service pvestatd restart
 ### Reference
 - [systemd service file example](https://www.shellhacks.com/systemd-service-file-example/)
 - [boot requirments](https://forums.servethehome.com/index.php?threads/proxmox-5-1-boot-drive-size.17792/)
+- [proxmox-cmap service](https://forum.proxmox.com/threads/one-node-cannot-initialize-cmap-service.31075/)
