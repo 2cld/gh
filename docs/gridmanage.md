@@ -1,5 +1,7 @@
 # ghcluster - blenderRender Pool Management
 
+Testing slack integration.  Should put up a slack notice.
+
 ## ghcluster startup
 
 1. Verify ghopsGRIDrouter is on (little black router on back side of grid rack)
