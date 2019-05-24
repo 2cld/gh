@@ -81,3 +81,7 @@ May 21 17:25:13 bn01 nodeRenderService.sh[1134]: ALSA lib conf.c:4528:(_snd_conf
 
 ## ghcluster power first 24hrs
 ![ghcluster-power-24hr](ghcluster-power-24hr.png)
+
+## ghcluster power down (just switch and OA on)
+- 604 Watts with Just Switch and OA
+![ghcluster-power-down](ghcluster-power-down.png)
