@@ -118,7 +118,20 @@ gh site buildout generics
 - repeat for nodes pm03-gh to pm16-gh
 - Now clone and migrate vm to the nodes
 
-   
+## Economics
+Compare with [AWS pricing](https://aws.amazon.com/emr/pricing/) via [AWS InstanceType](https://aws.amazon.com/ec2/instance-types/) also [AWS calculator](https://calculator.s3.amazonaws.com/index.html)
+
+- c4.4xlarge vCPU: 16 GiB: 30 - $0.796/hr (EMR $0.21)
+- c5.4xlarge vCPU: 16 GiB: 32 - $0.798/hr (EMR $0.19)
+- ESB - $0.10 per GB-month of provisionted storage
+- DataIn $0.00 DataOut $0.155/month for first 10TB
+
+### HPE Gridnode at AWS pricing
+1. 16 nodes @ c4.4xlarge = $0.796 x 16 = $12.74/hr x 24hr = $305.76/day = $9172.80/mth
+2. 16 nodes @ 140GB (aws has 500GB min so would be more) = $0.10 x 16 x 140 = $240/mth
+
+### HPE Gridnode power cost
+1. 16 nodes @ 100% => 4.600KW x $0.10/kWh = $0.46/hr x 24hr = $11.04/day = $331.20/mth
  
 ## Reference docs
 - [CreateCluster Video](https://youtu.be/s9FODQi2-20?t=79)
