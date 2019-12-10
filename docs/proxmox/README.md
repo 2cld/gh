@@ -102,24 +102,36 @@
     - Mode: Full Clone
     - Repeat... should get machines
 6. Create Cluster [ProxMox LearningLinuxTV 6/9](https://www.youtube.com/watch?v=s9FODQi2-20&list=PLT98CRl2KxKGDJbitpQQPOKE__pXlWH7U&index=6)
+  - Datacenter [See Video](https://youtu.be/s9FODQi2-20?list=PLT98CRl2KxKGDJbitpQQPOKE__pXlWH7U&t=71)
+    - Click on "Datacenter"
+    - Click on "Cluster" under "Summary"
+    - Click "Create Cluster" -> Name: cat9clusterl
+    - Click on "Join Information" -> "Copy Information"
+    - Go to another node (pm02)
+    - Click on "Datacenter"
+    - Click on "Cluster" under "Summary"
+    - Click "Join Cluster"
+    - Paste in Info -> type in root pw of pm01 -> Click "Join"
+    - Refresh GUI
+    - Should have 3 nodes to do HA
+  - Migrate a Container to other node [See Video](https://youtu.be/s9FODQi2-20?list=PLT98CRl2KxKGDJbitpQQPOKE__pXlWH7U&t=267)
+    - Stop Container 
+    - Right Click on Container -> Migrate -> Select target node -> Click "Migrate"
+    - You cannot Live migrate "Container" but you CAN LIVE migrate a VM
+  - Live Migrate VM to other node [See Video](https://youtu.be/s9FODQi2-20?list=PLT98CRl2KxKGDJbitpQQPOKE__pXlWH7U&t=403)
+7. [ProxMox LearningLinuxTV 7/9](https://www.youtube.com/watch?v=h1czc-ztRTQ&list=PLT98CRl2KxKGDJbitpQQPOKE__pXlWH7U&index=7)
   - xxx [See Video]()
   - xxx [See Video]()
   - xxx [See Video]()
   - xxx [See Video]()
   - xxx [See Video]()
-7. [ProxMox LearningLinuxTV 7/9]()
+8. Upgrade Proxmox to 6.0 [ProxMox LearningLinuxTV 8/9](https://www.youtube.com/watch?v=-izPmkID0dI&list=PLT98CRl2KxKGDJbitpQQPOKE__pXlWH7U&index=8)
   - xxx [See Video]()
   - xxx [See Video]()
   - xxx [See Video]()
   - xxx [See Video]()
   - xxx [See Video]()
-8. [ProxMox LearningLinuxTV 8/9]()
-  - xxx [See Video]()
-  - xxx [See Video]()
-  - xxx [See Video]()
-  - xxx [See Video]()
-  - xxx [See Video]()
-9. [ProxMox LearningLinuxTV 9/9]()
+9. Updates on ProxMox with no VM Downtime [ProxMox LearningLinuxTV 9/9](https://www.youtube.com/watch?v=llsB_dhTjVI&list=PLT98CRl2KxKGDJbitpQQPOKE__pXlWH7U&index=9)
   - xxx [See Video]()
   - xxx [See Video]()
   - xxx [See Video]()
