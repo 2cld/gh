@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>crowdrender for Blender Render Grid</h1>
+    <ol>General
+      <li>Crowd-Render <a href="https://www.crowd-render.com/">https://www.crowd-render.com/</a></li>
+      <li>cat9box - What#Time <a href="https://discovery.crowd-render.com/download">https://discovery.crowd-render.com/download</a></li>
+      <li>Github (docker) <a href="https://github.com/crowdrender/cr-docker">https://github.com/crowdrender/cr-docker</a></li>
+      <li>Github (docker NVidia) <a href="https://github.com/NVIDIA/nvidia-docker">https://github.com/NVIDIA/nvidia-docker</a></li>
+    </ol>
+    <ol>Setup <a href="https://www.youtube.com/watch?v=NLhdJ5a-jy4">YouTube - Quick Build | Making a render farm in Blender 2.81</a>
+      <li>Start Blender</li>
+      <li>Install Crowd-Render Addon <a href="https://youtu.be/NLhdJ5a-jy4?t=190">YouTube - Install Addon</a>
+        <ul>
+          <li>Edit -> Preferences -> Add-ons</li>
+          <li>Uninstall old (if one exist) Search: crowd then click X (remove)</li>
+          <li>Click "Install"</li>
+          <li>Search for the cr_022_bl280.zip file you downloaded</li>
+          <li>Click the checkbox to enable</li>
+          <li>Click the Add-in (filefolder like icon) in the blender panel</li>
+          <li>Click start in the blender addon panel (to the right)</li>
+          <li>Should get a new addon panel</li>
+        </ul>
+      </li>
+      <li>Add other nodes
+        <ul>
+          <li>Crowdrender -> Render Nodes click +</li>
+          <li>Enter remote node name and IP address</li>
+          <li>Node should eventually be highlighted and "synced" in Render Nodes list</li>
+          <li>WARNING!!! The blend project MUST BE PACKAGES (both assets and libraries)</li>
+        </ul>
+      </li>
+      <li>Use "Render still" or "Animation" Crowd Render buttons to create a render</li>
+    </ol>
+    <ol>FIX
+      <li>FIX Windows if old version was running <a href="https://youtu.be/NLhdJ5a-jy4?t=422">Windows Fix</a> FIX</li>
+    </ol>
+  </body>
+</html>
