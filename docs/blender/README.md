@@ -40,7 +40,7 @@
   - Edit mode, select 3 faces, hold shift and right click on all
   - E 3 <return>
 
-### Blender 2.8 Fundamentals[Blender 2.80 Fundamentals 48 Blender Foundation Videos](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
+### Blender 2.8 Fundamentals [List of 48 Blender Foundation Videos](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
 1. First Steps [Blender 2.80 Fundamentals 1](https://www.youtube.com/watch?v=MF1qEhBSfq4&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=2&t=0s)
 2. Viewport Navigation [Blender 2.80 Fundamentals 2](https://www.youtube.com/watch?v=ILqOWe3zAbk&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=2)
     - 3D-Viewport Select [Video](https://youtu.be/ILqOWe3zAbk?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&t=10)
@@ -105,7 +105,7 @@
       - Outer white (spin around view axis)
       - Sphere white (3d sping around object origin) press R, then X, Y, Z to contrain and R again to go free
     - Tools -> Scale (Arrow out)
-      - 
+      - tbd
 5. XXX [Blender 2.80 Fundamentals 5]()
 6. XXX [Blender 2.80 Fundamentals 6]()
 7. XXX [Blender 2.80 Fundamentals 7]()
