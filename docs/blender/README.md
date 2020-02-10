@@ -1,6 +1,7 @@
 # Blender 
 
 - Learning Architecture Drawing with Blender [https://www.blender3darchitect.com/course/blender-basics-architecture/](https://www.blender3darchitect.com/course/blender-basics-architecture/)
+- Arch Blender [Dimensions](https://www.blender3darchitect.com/modeling-for-architecture/architectural-modeling-how-to-display-lengths-in-blender-2-8/)
 
 ## Precision Transformations
 1. Object Transform
