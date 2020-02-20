@@ -2,6 +2,7 @@
 
 - Learning Architecture Drawing with Blender [https://www.blender3darchitect.com/course/blender-basics-architecture/](https://www.blender3darchitect.com/course/blender-basics-architecture/)
 - Arch Blender [Dimensions](https://www.blender3darchitect.com/modeling-for-architecture/architectural-modeling-how-to-display-lengths-in-blender-2-8/)
+- Blender [100 Blender 2.8 tips with index](https://www.youtube.com/watch?v=_9dEqM3H31g)
 - Blender [Create Shelf](https://www.youtube.com/watch?v=OOBKo-O6i_8&feature=youtu.be&t=27)
 - Blender [aur blender shelf](https://www.youtube.com/watch?v=ElGc34VtoA4)
 
