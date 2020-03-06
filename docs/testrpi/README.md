@@ -26,6 +26,15 @@
    - [Patch Panel wire diagram](https://youtu.be/n_A-jkpjpcM?t=1360)
    - [Volt Amp Meter wire diagram](https://youtu.be/n_A-jkpjpcM?t=2157)
 - [ATX Power Supply](https://www.youtube.com/watch?v=UiaqnFYK6SE)
+- [Andreas Spiess YouTube](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ/videos)
+   - [RPi4 SSD Boot](https://www.youtube.com/watch?v=gp6XW-fGVjo)
+   - [RPi Docker Setup](https://www.youtube.com/watch?v=a6mjt8tWUws)
+   - [WiFi Antennas Long-Range Mode - Part1](https://www.youtube.com/watch?v=2rujjTOPIRU)
+   - [WiFi Antennas Long-Range Mode - Part2](https://www.youtube.com/watch?v=PUppoaePi3A)
+   - [WiFi Antennas Optimization with N1201SA VNA](https://www.youtube.com/watch?v=ZpKoLvqOWyc)
+   - [Amazon - N1201SA VNA](https://www.amazon.com/KKmoon-137-5MHz-2-7GHz-Measuring-Instrument-Impedance/dp/B081SVYMPZ/ref=sr_1_fkmr1_2?keywords=N1201A+Vector+Impedance+Analyzer&qid=1583439104&sr=8-2-fkmr1)
+- [MotionEyeOS - Surveillance RPi](https://www.youtube.com/watch?v=NbFruaDUKB0)
+- [RPi4 V1.1 vs V1.2 Power H/W Issue](https://www.youtube.com/watch?v=_wt9NTa1UNE)
    
 ### My issues with edgelab-demo
 - [EEProm on fresh rpi4](https://github.com/digitalrebar/edgelab/issues/9)
