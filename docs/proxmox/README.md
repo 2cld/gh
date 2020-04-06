@@ -141,3 +141,4 @@
 ## Extras
 1. Upgrading Proxmox VE to 6.0 [See Video](https://www.youtube.com/watch?v=-izPmkID0dI)
 1. Installing Proxmox Virtual Enviroment Updates in a Cluster [See Video](https://www.youtube.com/watch?v=llsB_dhTjVI)
+1. Create custom Proxmox via CLI [See Video](https://youtu.be/BwQhG7OR5Rg?t=1282)
