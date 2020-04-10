@@ -4,6 +4,8 @@ Overview of components and innterconnect for an IaS grid deployment.
 ## Components
 ![gridtemplate-overview](gridtemplate-overview.svg)
 
+Note: gridtemplate-overview [Edit via draw.io](https://app.diagrams.net/#H2cld%2Fgh%2Fmaster%2Fdocs%2Fgridtemplate%2Fgridtemplate-overview.drawio)
+
 1. POE Node - WAN Point of Entry 
   - Router [pfsense](https://www.pfsense.org/)
   - Firewall [pfsense](https://www.pfsense.org/)
