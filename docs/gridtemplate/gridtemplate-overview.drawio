@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2020-04-10T15:21:32.644Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" version="12.8.8" etag="YwRl_fRMuGA4EnDe9_IO" type="github"><diagram id="96Cq-N8KqIH8uVRwFIOk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-10T16:55:51.503Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="4ozRiPvIjMpI_G0AaC8M" version="12.8.8" type="github">
+  <diagram id="96Cq-N8KqIH8uVRwFIOk" name="Page-1">
+    <mxGraphModel dx="528" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-1" value="WAN" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-4" value="LAN SDN&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;drp - scripts&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-6" value="CPU SDC&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;drp -&amp;nbsp; proxmox - k8s&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="10" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-7" value="&amp;nbsp;Storage SDS&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;drp - freeNAS - proxmox - ceph&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-2" value="POE&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;pfsense&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-8" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gORORX4qRVJOmpLnlzUQ-1" target="gORORX4qRVJOmpLnlzUQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="53.75" y="25" as="sourcePoint" />
+            <mxPoint x="120" y="25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-9" value="vm ubuntu" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-10" value="local" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-12" value="vm ubuntu" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-16" value="proxmox" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="50" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-21" value="bare metal" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-24" value="vm centos" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-25" value="windows 10" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-26" value="&lt;font style=&quot;font-size: 10px&quot;&gt;DCHP&lt;br&gt;iPXE&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Subnet&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="50" width="30" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-27" value="&lt;font style=&quot;font-size: 10px&quot;&gt;prod&lt;/font&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&amp;nbsp;&lt;br&gt;net&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-28" value="&lt;font style=&quot;font-size: 10px&quot;&gt;admin&lt;/font&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&amp;nbsp;&lt;br&gt;net&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-29" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Storage&lt;/font&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&amp;nbsp;&lt;br&gt;net&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="50" width="40" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-30" value="local" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-31" value="local" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-34" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.029;entryY=0.332;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gORORX4qRVJOmpLnlzUQ-24" target="gORORX4qRVJOmpLnlzUQ-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="200" as="sourcePoint" />
+            <mxPoint x="437" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-35" value="&lt;font style=&quot;font-size: 8px&quot;&gt;iSCSI&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="gORORX4qRVJOmpLnlzUQ-34">
+          <mxGeometry x="-0.4557" y="-2" relative="1" as="geometry">
+            <mxPoint x="23.71" y="-1.92" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-37" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gORORX4qRVJOmpLnlzUQ-31" target="gORORX4qRVJOmpLnlzUQ-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="200" as="sourcePoint" />
+            <mxPoint x="430" y="99" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-38" value="&lt;font style=&quot;font-size: 8px&quot;&gt;nfs&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="gORORX4qRVJOmpLnlzUQ-37">
+          <mxGeometry x="0.0284" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-39" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.714;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gORORX4qRVJOmpLnlzUQ-30" target="gORORX4qRVJOmpLnlzUQ-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="110" as="sourcePoint" />
+            <mxPoint x="450" y="108.93" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-40" value="&lt;font style=&quot;font-size: 8px&quot;&gt;nfs&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="gORORX4qRVJOmpLnlzUQ-39">
+          <mxGeometry x="0.0284" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
