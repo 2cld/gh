@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-11T00:35:28.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="7eTaMYbqY3k7L5FPz6x9" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-11T13:26:30.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="R9DwQWNhHxXw8pD5mkLP" version="12.8.8" type="github">
   <diagram id="96Cq-N8KqIH8uVRwFIOk" name="Page-1">
     <mxGraphModel dx="724" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="300" math="0" shadow="0">
       <root>
@@ -14,10 +14,10 @@
           <mxGeometry y="10" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gORORX4qRVJOmpLnlzUQ-4" value="LAN SDN&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;drp - scripts&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
-          <mxGeometry x="110" y="10" width="130" height="30" as="geometry" />
+          <mxGeometry x="110" y="10" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gORORX4qRVJOmpLnlzUQ-6" value="CPU SDC&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;drp -&amp;nbsp; proxmox - k8s&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" parent="1" vertex="1">
-          <mxGeometry x="240" y="10" width="100" height="30" as="geometry" />
+          <mxGeometry x="220" y="10" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gORORX4qRVJOmpLnlzUQ-7" value="&amp;nbsp;Storage SDS&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;drp - freeNAS - proxmox - ceph&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;" parent="1" vertex="1">
           <mxGeometry x="340" y="10" width="140" height="30" as="geometry" />
@@ -52,16 +52,16 @@
         <mxCell id="gORORX4qRVJOmpLnlzUQ-25" value="windows 10" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="195" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gORORX4qRVJOmpLnlzUQ-26" value="&lt;font style=&quot;font-size: 10px&quot;&gt;DCHP&lt;br&gt;iPXE&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;vlan 1&lt;br&gt;subnet&lt;br&gt;192.168.&lt;br&gt;9.0&lt;br&gt;/24&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDFFAA;" parent="1" vertex="1">
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-26" value="&lt;font style=&quot;font-size: 10px&quot;&gt;DCHP&lt;br&gt;iPXE&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;vlan 1&lt;br&gt;subnet&lt;br&gt;192.&lt;br&gt;168.&lt;br&gt;0.&lt;br&gt;0&lt;br&gt;/22&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DDFFAA;" parent="1" vertex="1">
           <mxGeometry x="110" y="50" width="30" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="gORORX4qRVJOmpLnlzUQ-27" value="&lt;font style=&quot;font-size: 10px&quot;&gt;prod&lt;/font&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&amp;nbsp;&lt;br&gt;vlan xx&lt;br&gt;subnet&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#AAFFCC;" parent="1" vertex="1">
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-27" value="&lt;font style=&quot;font-size: 10px&quot;&gt;prod&lt;/font&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&amp;nbsp;&lt;br&gt;vlan 12^&lt;br&gt;subnet&lt;br&gt;192.&lt;br&gt;168.&lt;br&gt;12^.&lt;br&gt;0&lt;br&gt;/24&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#AAFFCC;" parent="1" vertex="1">
           <mxGeometry x="170" y="90" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gORORX4qRVJOmpLnlzUQ-28" value="&lt;font style=&quot;font-size: 10px&quot;&gt;admin&lt;/font&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&amp;nbsp;&lt;br&gt;vlan 999&lt;br&gt;subnet&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-28" value="&lt;font style=&quot;font-size: 10px&quot;&gt;admin&lt;/font&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&amp;nbsp;&lt;br&gt;vlan 9&lt;br&gt;subnet&lt;br&gt;192.&lt;br&gt;168.&lt;br&gt;9.&lt;br&gt;0&lt;br&gt;/24&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" parent="1" vertex="1">
           <mxGeometry x="140" y="70" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="gORORX4qRVJOmpLnlzUQ-29" value="&lt;font&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;FreeNAS&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Ceph&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;NFS&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Storage&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&amp;nbsp;&lt;br&gt;vlan xx&lt;br&gt;subnet&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;" parent="1" vertex="1">
+        <mxCell id="gORORX4qRVJOmpLnlzUQ-29" value="&lt;font&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;FreeNAS&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Ceph&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;NFS&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Storage&lt;/span&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;&amp;nbsp;&lt;br&gt;vlan 208&lt;br&gt;subnet&lt;br&gt;192.&lt;br&gt;168.&lt;br&gt;208.&lt;br&gt;0&lt;br&gt;/20&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC99FF;" parent="1" vertex="1">
           <mxGeometry x="440" y="50" width="40" height="210" as="geometry" />
         </mxCell>
         <mxCell id="gORORX4qRVJOmpLnlzUQ-30" value="local" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="1" vertex="1">
@@ -103,10 +103,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIhT88IUn4sQt4fcTsB7-1" value="" style="endArrow=classic;html=1;entryX=-0.019;entryY=0.479;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.01;exitY=0.038;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gORORX4qRVJOmpLnlzUQ-26" target="gORORX4qRVJOmpLnlzUQ-16">
+        <mxCell id="WIhT88IUn4sQt4fcTsB7-1" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="gORORX4qRVJOmpLnlzUQ-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="220" as="sourcePoint" />
-            <mxPoint x="270" y="170" as="targetPoint" />
+            <mxPoint x="140" y="60" as="sourcePoint" />
+            <mxPoint x="200" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIhT88IUn4sQt4fcTsB7-3" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1.019;exitY=0.056;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gORORX4qRVJOmpLnlzUQ-28">
@@ -123,7 +123,7 @@
         </mxCell>
         <mxCell id="WIhT88IUn4sQt4fcTsB7-5" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="gORORX4qRVJOmpLnlzUQ-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="142" y="250" as="sourcePoint" />
+            <mxPoint x="140" y="250" as="sourcePoint" />
             <mxPoint x="218.56" y="260.46" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -145,9 +145,9 @@
             <mxPoint x="250" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIhT88IUn4sQt4fcTsB7-13" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.943;exitY=0.082;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gORORX4qRVJOmpLnlzUQ-27" target="gORORX4qRVJOmpLnlzUQ-9">
+        <mxCell id="WIhT88IUn4sQt4fcTsB7-13" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gORORX4qRVJOmpLnlzUQ-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="128.46999999999997" as="sourcePoint" />
+            <mxPoint x="200" y="100" as="sourcePoint" />
             <mxPoint x="250" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
