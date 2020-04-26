@@ -18,6 +18,10 @@ qm stop 601
 - Where the network config that matters lives
 ```
 vi /etc/network/interfaces
+
+service networking restart
+
+/etc/init.d/networking restart
 ```
 - Adding VLAN to proxmox [Nic VLAN tagging](https://forum.proxmox.com/threads/proxmox-single-nic-vlan-tagging.44415/)
 
