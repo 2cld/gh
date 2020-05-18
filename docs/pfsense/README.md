@@ -11,16 +11,16 @@ tbd
   - Note interface assignments and lable ports and cables
   - Walk through wizard
     - Turn off Block RFC1918 Private Addresses and bogon networks (so we can use LAN address ranges)
-    - Decide what the LAN subnet should be (default is 192.168.1.1/24)
+    - Decide what the LAN subnet should be (default is 192.168.1.1/24) 191.168.252.0/23
     - Set admin password
   - Should have 2 interfaces WAN and LAN
   - Add Traffic Graphs to Dashboard 
 2. DHCP Setup -> Services DHCP Server / LAN
   - Enbable DHCP Server
-  - Range: 192.168.1.200 - 250 (Move new servers to MAC assignment)
+  - Range: 192.168.253.101 - 199 (Move new servers to MAC assignment)
   - View DHCP Static Mappings (at bottom)
-  - Status -> DCHP Leaases (view leases and move 200-250 to the static according to IP mappings
-3. Add VLAN's
+  - Status -> DCHP Leaases View leases and move 101-199 to a static according to IP mappings
+3. Add VLAN's (skip this for now... will have to deal with router)
   - Interfaces -> Assignments -> VLANs
     - VLANs add
     - Parent Interface: lan  VLAN Tag: 9 Description: ADM
@@ -49,9 +49,18 @@ tbd
     - Protocal - any
     - Source - any
     - Destination - any
-    - Description: Administration Network
+    - Description: dmzall
     - Save
   - Add-TOP:
+    - Action - Pass
+    - Interface - ADM
+    - Addresss Family - IPv4
+    - Protocal - IPv4 ICMP - echoreq
+    - Source - any
+    - Destination - any
+    - Description: ghWANallowPing
+    - Save
+  - Add-TOP: (not yet)
     - Action - Block
     - Interface - ADM
     - Addresss Family - IPv4
