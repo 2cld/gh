@@ -1,6 +1,10 @@
 # ProxMox Setup for VM
 
-
+- [ProxMox Windows 10 VM best practices](https://pve.proxmox.com/wiki/Windows_10_guest_best_practices)
+- [ProxMox Windows 10 VM idiots guide](https://jonspraggins.com/the-idiot-installs-windows-10-on-proxmox/)
+    - [Windows 10 iso - Download link](https://www.microsoft.com/en-us/software-download/windows10ISO)
+    - [ProxMox Windows 10 virtio link](https://docs.fedoraproject.org/en-US/quick-docs/creating-windows-virtual-machines-using-virtio-drivers/index.html)
+    - [ProxMox Windows 10 virtio-win iso](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/virtio-win.iso)
 
 1. Setup [ProxMox LearningLinuxTV 1/9](https://www.youtube.com/watch?v=MO4CaHn1EjM&list=PLT98CRl2KxKGDJbitpQQPOKE__pXlWH7U)
   - Start Install (via USB Stick)
