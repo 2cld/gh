@@ -6,6 +6,9 @@
 - Blender [Create Shelf](https://www.youtube.com/watch?v=OOBKo-O6i_8&feature=youtu.be&t=27)
 - Blender [aur blender shelf](https://www.youtube.com/watch?v=ElGc34VtoA4)
 
+## Reminder
+Blender test machine is on the ghadmin - horseoff [network](https://my.zerotier.com/network/d5e5fb65371eb4a4) using windows 10 machines on bare metal (see ebay for the parts you got 2020.06.07)
+
 ## Precision Transformations
 1. Object Transform
   - Location
