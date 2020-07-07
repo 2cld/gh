@@ -1,5 +1,12 @@
 # ProxMox Setup for VM
 
+## Mantainance
+
+1. Add Storage from [catfreenas.gh.lan http://192.168.252.2/](http://192.168.252.2/)
+    - Datacenter -> Storage -> Add -> NFS
+    - 
+
+## Setup
 - [ProxMox Windows 10 VM best practices](https://pve.proxmox.com/wiki/Windows_10_guest_best_practices)
 - [ProxMox Windows 10 VM idiots guide](https://jonspraggins.com/the-idiot-installs-windows-10-on-proxmox/)
     - [Windows 10 iso - Download link](https://www.microsoft.com/en-us/software-download/windows10ISO)
