@@ -34,3 +34,9 @@
 - [Sunken Greenhouse - Co-Op fresh produce](https://www.youtube.com/watch?v=9jbLZxwWudk)
 - [Sunken Greenhouse - Trail Break Farms](https://www.youtube.com/channel/UCLA6VAIG8HlswUpjgxNHaOg)
 - [Greenhouse Types - Various](https://www.youtube.com/watch?v=FPjko9DDhcU)
+
+## Bathroom / Toilet
+- [Portable Riser Toilet](https://www.amazon.com/HealthSmart-Portable-Elevated-Raised-Toilet/dp/B0009STN4W)
+- [Toilet Lift](http://www.discovermymobility.com/store/patient-lifts/tush-push/index.html)
+- [Diagnostic Toilets](https://orangematter.solarwinds.com/2020/05/18/iot-and-privacy-the-connected-toilet-strikes-again/?CMP=SOC-HAD-FB-SW_WW_X_CR_X_AW_EN_SECOMP_X-X-X_X_X_X_VidNo_X-X)
+- [Pool lift](http://www.discovermymobility.com/store/patient-lifts/summit/triton-pool-lift/Above-Ground-Pool-Lift.html?gclid=EAIaIQobChMI_bjq4s3_6QIVA4-GCh01gQnzEAQYAyABEgLq7fD_BwE)2
