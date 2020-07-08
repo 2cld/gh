@@ -7,7 +7,7 @@
 - [JARCH Vis - Arch componentes]()  [Example Tutorial](https://youtu.be/e1ewod-L3CY?t=264)
 
 ### References
-- [How to make 3d floor plan in Blender | Modeling](https://www.youtube.com/watch?v=o0k9kZwUhpo)
+- [How to make 3d floor plan in Blender | Modeling](https://www.youtube.com/watch?v=o0k9kZwUhpo) [catArchModelNotes - Learning Notes](./catArchModelNotes/README.md)
 - [Blender 2.8 - Basic 3D House](https://www.youtube.com/watch?v=CmBMcYVW9x8)
 - [How to make Realtime Archviz with Blender and Eevee - part 1 of 3](https://www.youtube.com/watch?v=2VNztZdfGZY)
 - [How to make Realtime Archviz with Blender and Eevee - part 2 of 3](https://www.youtube.com/watch?v=VB5kMlW2EBI)
