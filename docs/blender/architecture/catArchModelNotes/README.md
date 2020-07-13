@@ -33,6 +33,15 @@ Based off of [Blender 2.8: Intro to 3D Modeling](https://www.youtube.com/watch?v
 - Inset Faces keyboard shortcut [TC 33:01](https://www.youtube.com/watch?v=CmBMcYVW9x8&t=1981s)
 - Modeling the house! [TC 35:13](https://www.youtube.com/watch?v=CmBMcYVW9x8&t=2113s)
 
-## Basics
-- Review of [Blender 2.8 basics](https://www.youtube.com/watch?v=8XyIYRW_2xk&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
-    - Simple chair model using loop-cut and extrude [youtube](https://www.youtube.com/watch?v=yqe7kC7Fk-I&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=11)
+## [Blender 2.8 basics](https://www.youtube.com/watch?v=8XyIYRW_2xk&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
+1. Simple chair model using loop-cut and extrude [TC 3:50](https://youtu.be/2qD_tcPMhOs?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&t=230)
+    - Start with default cube selected
+    - Enter Edit mode (tab or dropdown in upper left) [TC 3:59](https://youtu.be/2qD_tcPMhOs?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&t=239)
+    - Scale cube down along Z axis (grab blue square and shrink) [TC 4:02](https://youtu.be/2qD_tcPMhOs?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&t=242)
+    - Use loop cut tool to left-click drag new mesh loops 1/3 in X and Y planes [TC 4:12](https://youtu.be/2qD_tcPMhOs?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&t=252)
+    - Use face select mode (by edit dropdown) to select the faces to extrude [TC 4:22](https://youtu.be/2qD_tcPMhOs?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&t=262)
+    - Select the Extrude subtool Extrude along Normals [TC 4:33](https://youtu.be/2qD_tcPMhOs?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&t=273)
+    - Left-click drag to extrude [TC 4:36](https://youtu.be/2qD_tcPMhOs?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&t=276)
+    - not sure middle mouse to move faces [TC 4:40](https://youtu.be/2qD_tcPMhOs?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&t=280)
+    - Save to demo file
+    
