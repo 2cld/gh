@@ -32,3 +32,7 @@ Based off of [Blender 2.8: Intro to 3D Modeling](https://www.youtube.com/watch?v
 - Inset Faces tool [TC 32:03](https://www.youtube.com/watch?v=CmBMcYVW9x8&t=1923s)
 - Inset Faces keyboard shortcut [TC 33:01](https://www.youtube.com/watch?v=CmBMcYVW9x8&t=1981s)
 - Modeling the house! [TC 35:13](https://www.youtube.com/watch?v=CmBMcYVW9x8&t=2113s)
+
+## Basics
+- Review of [Blender 2.8 basics](https://www.youtube.com/watch?v=8XyIYRW_2xk&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
+    - Simple chair model using loop-cut and extrude [youtube](https://www.youtube.com/watch?v=yqe7kC7Fk-I&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=11)
