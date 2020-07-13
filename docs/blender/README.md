@@ -1,13 +1,31 @@
 # Blender 
+Blender infrastructure and workflow support documentation.   
 
+## CAToDo
+- [blender/architecture](./architecture/) Setup for achitecture drawing in blender
+- [blender/architecture/catArchModelNotes](./architecture/catArchModelNotes) Chris notes as he learns blender architecture cad
+- [tbd]()
+- [tbd]()
+- [tbd]()
+- [tbd]()
+- [tbd]()
+
+
+## Reminder - Infrastructure
+Blender test machine is on the ghadmin - horseoff [network](https://my.zerotier.com/network/d5e5fb65371eb4a4) using windows 10 machines on bare metal (see ebay for the parts you got 2020.06.07)
+
+### catghwin10
+- Device name: catghwin10
+- CPU: 2 x Intel Xeon E5472 3GHz
+- RAM: 32GB
+- OS: Windows 10 Pro - 1903 (build 18362.900) - Installed 6/11/2020
+
+## References
 - Learning Architecture Drawing with Blender [https://www.blender3darchitect.com/course/blender-basics-architecture/](https://www.blender3darchitect.com/course/blender-basics-architecture/)
 - Arch Blender [Dimensions](https://www.blender3darchitect.com/modeling-for-architecture/architectural-modeling-how-to-display-lengths-in-blender-2-8/)
 - Blender [100 Blender 2.8 tips with index](https://www.youtube.com/watch?v=_9dEqM3H31g)
 - Blender [Create Shelf](https://www.youtube.com/watch?v=OOBKo-O6i_8&feature=youtu.be&t=27)
 - Blender [aur blender shelf](https://www.youtube.com/watch?v=ElGc34VtoA4)
-
-## Reminder
-Blender test machine is on the ghadmin - horseoff [network](https://my.zerotier.com/network/d5e5fb65371eb4a4) using windows 10 machines on bare metal (see ebay for the parts you got 2020.06.07)
 
 ## Precision Transformations
 1. Object Transform
