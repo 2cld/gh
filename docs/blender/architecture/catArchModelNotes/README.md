@@ -43,5 +43,5 @@ Based off of [Blender 2.8: Intro to 3D Modeling](https://www.youtube.com/watch?v
     - Select the Extrude subtool Extrude along Normals [TC 4:33](https://youtu.be/2qD_tcPMhOs?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&t=273)
     - Left-click drag to extrude [TC 4:36](https://youtu.be/2qD_tcPMhOs?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&t=276)
     - not sure middle mouse to move faces [TC 4:40](https://youtu.be/2qD_tcPMhOs?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&t=280)
-    - Save to demo file
+    - Save to demo file CATNotes01SimpleChair.blend
     
