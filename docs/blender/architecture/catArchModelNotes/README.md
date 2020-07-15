@@ -1,6 +1,6 @@
 # catArchModelNotes
 
-Based off of [How to make 3d floor plan in Blender | Modeling](https://www.youtube.com/watch?v=o0k9kZwUhpo) these are my notes as I went through this tutorial.
+Based off of [How to make 3d floor plan in Blender Modeling](https://www.youtube.com/watch?v=o0k9kZwUhpo) these are my notes as I went through this tutorial.
 
 1. Enable [AutocadDXF Emport](https://youtu.be/o0k9kZwUhpo?t=23)
     - Preferences -> Search "AutoCAD"
