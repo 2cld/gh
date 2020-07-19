@@ -27,6 +27,7 @@
 - [Earthship - https://www.earthshipglobal.com/](https://www.earthshipglobal.com/)
 - [Earthship - Ontario Tour](https://www.youtube.com/watch?v=j7SUjcwXY8w&vl=en)
 - [Earthship - Arizona Tour](https://youtu.be/efI77fzBgvg?t=547)
+- [Earthship - Taos NM - Global - Encounter models](https://youtu.be/wVp5koAOu9M) Build 4 mths $219K
 
 ## Geothermal Greenhouse
 - [Geothermal Greenhouse - Russ Finch - Alliance Nebraska](https://www.youtube.com/watch?v=IZghkt5m1uY)
@@ -39,4 +40,4 @@
 - [Portable Riser Toilet](https://www.amazon.com/HealthSmart-Portable-Elevated-Raised-Toilet/dp/B0009STN4W)
 - [Toilet Lift](http://www.discovermymobility.com/store/patient-lifts/tush-push/index.html)
 - [Diagnostic Toilets](https://orangematter.solarwinds.com/2020/05/18/iot-and-privacy-the-connected-toilet-strikes-again/?CMP=SOC-HAD-FB-SW_WW_X_CR_X_AW_EN_SECOMP_X-X-X_X_X_X_VidNo_X-X)
-- [Pool lift](http://www.discovermymobility.com/store/patient-lifts/summit/triton-pool-lift/Above-Ground-Pool-Lift.html?gclid=EAIaIQobChMI_bjq4s3_6QIVA4-GCh01gQnzEAQYAyABEgLq7fD_BwE)2
+- [Pool lift](http://www.discovermymobility.com/store/patient-lifts/summit/triton-pool-lift/Above-Ground-Pool-Lift.html?gclid=EAIaIQobChMI_bjq4s3_6QIVA4-GCh01gQnzEAQYAyABEgLq7fD_BwE)
