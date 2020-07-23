@@ -16,6 +16,7 @@
 - [How To Model A House In Blender - Youtube](https://www.youtube.com/watch?v=HWaSe0goih8) with [Reference Image plan](https://www.youtube.com/redirect?redir_token=QUFFLUhqa09MaWJENkllcGg5TWNEV2VGZHBaTVdQYUgxd3xBQ3Jtc0ttQ2k4Vklva1NiS2JqSUpyRWdjcC15U2NVU2NhYXJER2lxVGtERDlacnc4cDZnX094VnZyWDd0SnFkRmFESzExTzNhaVh6X0gxeEppakFSYmtua1d6eS1lVF9UOE5ZUGZZTlZDV3JSSGIwX1dBWmZqQQ%3D%3D&q=http%3A%2F%2Fwww.hausbaudirekt.de%2Fhaus%2Fconcept-m-155%2F&v=HWaSe0goih8&event=video_description)
 
 - [Blender 2.8 for 3D Printing, Start Here - Part 1 Setup](https://www.youtube.com/watch?v=HqDnLg3o9WE)
+- [Blender 2.8 Technical Modeling](https://www.youtube.com/watch?v=WSR6bVFe5LM)
 
 - [All 80+ Blender material nodes explained in under 30 minutes](https://www.youtube.com/watch?v=cQ0qtcSymDI)
 - [The RIGHT way to cut holes in surfaces in Blender](https://www.youtube.com/watch?v=Ci1jBOm_5NY)
