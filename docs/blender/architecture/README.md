@@ -28,6 +28,7 @@
 - [Earthship - Ontario Tour](https://www.youtube.com/watch?v=j7SUjcwXY8w&vl=en)
 - [Earthship - Arizona Tour](https://youtu.be/efI77fzBgvg?t=547)
 - [Earthship - Taos NM - Global - Encounter models](https://youtu.be/wVp5koAOu9M) Build 4 mths $219K
+- [Earthship - Canada winter](https://www.youtube.com/watch?v=EAvY5JeMz9w)
 
 ## Geothermal Greenhouse
 - [Geothermal Greenhouse - Russ Finch - Alliance Nebraska](https://www.youtube.com/watch?v=IZghkt5m1uY)
@@ -35,6 +36,10 @@
 - [Sunken Greenhouse - Co-Op fresh produce](https://www.youtube.com/watch?v=9jbLZxwWudk)
 - [Sunken Greenhouse - Trail Break Farms](https://www.youtube.com/channel/UCLA6VAIG8HlswUpjgxNHaOg)
 - [Greenhouse Types - Various](https://www.youtube.com/watch?v=FPjko9DDhcU)
+
+## Build
+- [The Perfect Wall - Building Science](https://www.youtube.com/watch?v=jjHOqbJ9ZeQ)
+- [ICF vs SIP vs Framing - Pros and Cons](https://www.youtube.com/watch?v=C3KX8c3UVo4)a
 
 ## Bathroom / Toilet
 - [Portable Riser Toilet](https://www.amazon.com/HealthSmart-Portable-Elevated-Raised-Toilet/dp/B0009STN4W)
