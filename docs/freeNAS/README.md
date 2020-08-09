@@ -26,5 +26,12 @@ The 2cld storage infrastructure pattern uses ZFS storage mounted via NFS, SMB an
 ### Reference
 - [Lawrence Systems - FreeNAS 11.2 Snapshots / Replication](https://www.youtube.com/watch?v=Ge8eLR2FvDU&list=PLjGQNuuUzvmug2-LMfh43ehP9nt8gmCSf&index=36)
 - [Lawrence Systems - How To Backup Your FreeNAS 11.3 Using ZFS Replication](https://www.youtube.com/watch?v=et7JyacV_hA&list=PLjGQNuuUzvmug2-LMfh43ehP9nt8gmCSf&index=5)
+    - [Lawrence Systems - How To Backup Your FreeNAS 11.3 Using ZFS Replication](https://www.youtube.com/watch?v=et7JyacV_hA)
+    - [Zerotier vpn on Freebsd](https://gist.github.com/dch/b36dd170209e65677d23f77c44825b5a)
+    - [Zerotier CLI](https://zerotier.atlassian.net/wiki/spaces/SD/pages/29065282/zerotier-cli)
+    - [Lawrence Systems - ZeroTier on FreeNAS](https://forums.lawrencesystems.com/t/zerotier-on-freenas/1650)
+    - [IXXyxtems - ZeroTier on FreeNAS](https://www.ixsystems.com/community/threads/zerotier-how-is-this-configured.56070/)
+    - [FreeNAS - Zerotier Setup](https://techmaniac.in/freenasyt/freenasyt.html)
+- [Lawrence Systems - FreeNAS VPN | Zerotier Setup | Remote Access FreeNAS Jail and Console](https://www.youtube.com/watch?v=fEkybngMcWk)
 - [Fun with ZFS send and receive](https://128bit.io/2010/07/23/fun-with-zfs-send-and-receive/)
 - The config instructions for [cat9FreeNAS](./cat9FreeNAS.md) from original 2017-10-26 [cat9FreeNAS google doc](https://docs.google.com/document/d/1kE2nafGL4KOyLlbPjma4ittpz_pkTlQPhcBlV2qrHMU/edit)
