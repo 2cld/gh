@@ -9,7 +9,7 @@ Documents for Grasshorse Workflows
     1. [Netstack Freenas - Setup](https://netstack.org/docs/lan/storage/freenas/setup)
     2. local link [Storage/Pools/EditPermissions on catFreeNAS](http://192.168.252.2/ui/storage/pools/id/MediaVolume/dataset/permissions/MediaVolume%2FMedia)
     3. local link [Sharing/SMB/Edit on catFreeNAS](http://192.168.252.2/ui/sharing/smb/edit/1)
-- freeNAS [Storage Gateway Part 2 - Create a new dataset]() following the document [Netstack Freenas - Setup - SMB Share](https://github.com/2cld/netstack/blob/master/docs/lan/storage/freenas/setup.md#freenas-smb-share-dataset-configuration)
+- freeNAS [Storage Gateway Part 2a - Create a new dataset](https://youtu.be/SJa9J5YYaPM) and [Part2b]() following the document [Netstack Freenas - Setup - SMB Share](https://github.com/2cld/netstack/blob/master/docs/lan/storage/freenas/setup.md#freenas-smb-share-dataset-configuration)
     1. Check Status of pool
     2. Add "TestStorage" dataset
     3. Skip (instructions add "Projects" and "Public" datasets)
@@ -35,7 +35,8 @@ Documents for Grasshorse Workflows
         - Connect using different credentials: checked (yes)
         - Enter credentials: nsprouser - thepasswordyouset
         - Finish
-    15. The END - You should have access, you can edit or insert credentials directly see “Windows 10 credentials debug” below
+    15. The END - You should have access I ran out of time on the video to show the auth login
+    16. [Part2b]() will show how to setup network drive
 - freeNAS tbd [Storage Gateway Part 3]()
 - [pfSense the Firewall Gateway fg.gh.lan]()
 - [Data and Backups]()
