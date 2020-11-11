@@ -12,11 +12,10 @@ Documents for Grasshorse Workflows
 - tbd
 
 ### Grasshorse Storage Gateway configuration with [freenas.org](https://www.freenas.org/) 
-1. Storage Gateway configuration [youtube - Part 1 - How Media Share is setup](https://youtu.be/QW0eGZtrELs) for [Netstack freeNAS](https://netstack.org/docs/lan/storage/freenas/) document
-2. [document - Netstack Freenas - Setup](https://netstack.org/docs/lan/storage/freenas/setup)
-3. Pool Setup [local link - Storage/Pools/EditPermissions on catFreeNAS](http://192.168.252.2/ui/storage/pools/id/MediaVolume/dataset/permissions/MediaVolume%2FMedia)
-4. Sharing Setup [local link - Sharing/SMB/Edit on catFreeNAS](http://192.168.252.2/ui/sharing/smb/edit/1)
-5. Storage Gateway configuration [youtube - Part 2a - Create a new dataset](https://youtu.be/kt5hubC1tX0) following the [document - Netstack Freenas - Setup - SMB Share](https://github.com/2cld/netstack/blob/master/docs/lan/storage/freenas/setup.md#freenas-smb-share-dataset-configuration)
+1. Storage Gateway configuration [youtube - Part 1 - How Media Share is setup](https://youtu.be/QW0eGZtrELs) for [Netstack freeNAS](https://netstack.org/docs/lan/storage/freenas/) [document - Netstack Freenas - Setup](https://netstack.org/docs/lan/storage/freenas/setup)
+    1. Pool Setup [local link - Storage/Pools/EditPermissions on catFreeNAS](http://192.168.252.2/ui/storage/pools/id/MediaVolume/dataset/permissions/MediaVolume%2FMedia)
+    2. Sharing Setup [local link - Sharing/SMB/Edit on catFreeNAS](http://192.168.252.2/ui/sharing/smb/edit/1)
+2. Storage Gateway configuration [youtube - Part 2a - Create a new dataset](https://youtu.be/kt5hubC1tX0) following the [document - Netstack Freenas - Setup - SMB Share](https://github.com/2cld/netstack/blob/master/docs/lan/storage/freenas/setup.md#freenas-smb-share-dataset-configuration)
     1. Check Status of pool
     2. Add "TestStorage" dataset
     3. Skip (instructions add "Projects" and "Public" datasets)
@@ -43,7 +42,7 @@ Documents for Grasshorse Workflows
         - Enter credentials: nsprouser - thepasswordyouset
         - Finish
     15. The END - You should have access I ran out of time on the video to show the auth logic
-6. Storage [youtube - Part2b - Workstation connect and verify]() 
+3. Storage [youtube - Part2b - Workstation connect and verify]() 
     1. tbd
     2. tbd
 
