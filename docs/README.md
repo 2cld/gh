@@ -12,7 +12,7 @@ Documents for Grasshorse Workflows
 - tbd
 
 ### Grasshorse Storage Gateway configuration with [freenas.org](https://www.freenas.org/) 
-1. Storage Gateway configuration [youtube - Part 1 - How Media Share is setup](https://youtu.be/QW0eGZtrELs) for [Netstack freeNAS](https://netstack.org/docs/lan/storage/freenas/) [document - Netstack Freenas - Setup](https://netstack.org/docs/lan/storage/freenas/setup)
+1. Storage Gateway configuration [youtube - Part 1 - Media Share](https://youtu.be/QW0eGZtrELs) setup using [document - Netstack Freenas - Setup](https://netstack.org/docs/lan/storage/freenas/setup)
     1. Pool Setup [local link - Storage/Pools/EditPermissions on catFreeNAS](http://192.168.252.2/ui/storage/pools/id/MediaVolume/dataset/permissions/MediaVolume%2FMedia)
     2. Sharing Setup [local link - Sharing/SMB/Edit on catFreeNAS](http://192.168.252.2/ui/sharing/smb/edit/1)
 2. Storage Gateway configuration [youtube - Part 2a - Create a new dataset](https://youtu.be/kt5hubC1tX0) following the [document - Netstack Freenas - Setup - SMB Share](https://github.com/2cld/netstack/blob/master/docs/lan/storage/freenas/setup.md#freenas-smb-share-dataset-configuration)
