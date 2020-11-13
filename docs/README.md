@@ -7,7 +7,7 @@ Documents for Grasshorse Workflows
 - Grasshorse Network [youtube - network gh.lan](https://youtu.be/INU3BqtyBZQ)
 
 ### Network Gateway configuration
-- [pfSense the Firewall Gateway fg.gh.lan]()
+- Grasshorse [pfSense setup](./pfsense/) via [document - Netstack pfSense - Setup](https://netstack.org/docs/lan/network/pfsense/setup)
 - tbd
 - tbd
 
