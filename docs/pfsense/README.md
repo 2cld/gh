@@ -6,7 +6,7 @@ tbd
 ## gh.lan Overview [youtube - ghlan Network Overview](https://youtu.be/HJzfB8MpkJg)
 ![ghlearn-ghlanNetworkOverviewDiagram](ghlearn-ghlanNetworkOverviewDiagram.jpeg)
 
-- ghlearn [document - gh.lan Overview](./ghlanOverviewDetail.md)
+- ghlearn [document - gh.lan Overview](./ghlanOverviewDetail)
 
 ## pfSense basics
 1. Default install via "pfsense" USB install key
