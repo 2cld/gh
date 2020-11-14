@@ -20,18 +20,12 @@
 15. pfsense DNS Host Overrides [TC 32:54](https://youtu.be/HJzfB8MpkJg?t=1974)
 16. pfSense DHCP MAC to IP Mappings [TC 33:55](https://youtu.be/HJzfB8MpkJg?t=2035)
 17. Change document gateway IP to netstack standard [TC 36:08](https://youtu.be/HJzfB8MpkJg?t=2168)
-18. [TC tbd]()
-19. [TC tbd]()
-20. [TC tbd]()
-21. [TC tbd]()
-22. [TC tbd]()
-23. [TC tbd]()
-24. [TC tbd]()
-25. [TC tbd]()
-26. [TC tbd]()
-27. [TC tbd]()
-28. [TC tbd]()
-29. [TC tbd]()
+18. Review Network Traffic using Diagram [TC 33:04](https://youtu.be/HJzfB8MpkJg?t=2284)
+19. Add sg.gh.lan DNS entry [TC 39:59](https://youtu.be/HJzfB8MpkJg?t=2399)
+20. Add ng.gh.lan DNS entry [TC 43:25](https://youtu.be/HJzfB8MpkJg?t=2605)
+21. Go through a DHCP MAC resolution to IP to DNS [TC 48:27](https://youtu.be/HJzfB8MpkJg?t=2907)
+22. Debug sg.gh.lan DNS name resolution [TC 56:00](https://youtu.be/HJzfB8MpkJg?t=3360)
+
 
 -----
 
