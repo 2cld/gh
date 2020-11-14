@@ -14,11 +14,18 @@ Documents for Grasshorse Workflows
 ### Grasshorse Network Gateway configuration with [pfsense.org](https://www.pfsense.org/)
 - Grasshorse pfsense [document - pfsense](./pfsense/)
 - Grasshorse [youtube - network - ng.gh.lan](https://youtu.be/HJzfB8MpkJg) detail [document - pfsense - ng.gh.lan](./pfsense/ghlanOverviewDetail)
-- Grasshorse [document - Netstack pfSense - Setup](https://netstack.org/docs/lan/network/pfsense/setup)
-- tbd
-- tbd
+- Grasshorse network setup [document - Netstack pfSense - Setup](https://netstack.org/docs/lan/network/pfsense/setup)
+- Grasshorse network maintainace - tbd
+- Grasshorse network disaster recovery (dr) - tbd
 
 ### Grasshorse Storage Gateway configuration with [freenas.org](https://www.freenas.org/) 
+- Grasshorse storage - freenas [document - freenas](./freenas/)
+- Grasshorse [tbd youtube - storage - sg.gh.lan]() detail [document - freenas - sg.gh.lan](./freenas/ghlanStorageOverviewDetail)
+- Grasshorse storage setup [document - Netstack freenas - Setup](https://netstack.org/docs/lan/storage/freenas/setup)
+- Grasshorse storage maintainace - tbd
+- Grasshorse storage disaster recovery (dr) - tbd
+
+-----
 1. Storage Gateway configuration [youtube - Part 1 - Media Share](https://youtu.be/QW0eGZtrELs) setup using [document - Netstack Freenas - Setup](https://netstack.org/docs/lan/storage/freenas/setup)
     1. Pool Setup [local link - Storage/Pools/EditPermissions on catFreeNAS](http://192.168.252.2/ui/storage/pools/id/MediaVolume/dataset/permissions/MediaVolume%2FMedia)
     2. Sharing Setup [local link - Sharing/SMB/Edit on catFreeNAS](http://192.168.252.2/ui/sharing/smb/edit/1)
@@ -72,8 +79,11 @@ Documents for Grasshorse Workflows
     1. tbd [TC ]()
 
 ### Compute Gateway configuration
-- tbd
-- tbd
+- Grasshorse compute - xcp-ng [document - xcp-ng](./xcp-ng/)
+- Grasshorse [tbd youtube - storage - sg.gh.lan]() detail [document - freenas - sg.gh.lan](./xcp-ng/ghlanComputeOverviewDetail)
+- Grasshorse storage setup [document - Netstack xcp-ng - Setup](https://netstack.org/docs/lan/compute/xcp-ng/setup)
+- Grasshorse storage maintainace - tbd
+- Grasshorse storage disaster recovery (dr) - tbd
 
 
 - [Data and Backups]()
