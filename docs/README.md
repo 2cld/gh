@@ -4,9 +4,12 @@ Documents for Grasshorse Workflows
 ## Video Learning [GrasshorseLearn](https://www.youtube.com/channel/UCmsVjwDg8Qc6NQbsAuXeh5A)
 - Grasshorse Learning [youtube - Overview](https://youtu.be/NyJJvPpoafA)
 - Grasshorse Netstack [youtube - Netstack Overview](https://youtu.be/fWCfG13xkaQ) [netstack.org](https://netstack.org/docs/)
-- Grasshorse Network [youtube - network gh.lan](https://youtu.be/INU3BqtyBZQ)
+- Grasshorse Network Overview [youtube - network gh.lan](https://youtu.be/INU3BqtyBZQ)
+- Grasshorse Network Gateway Overview [youtube - network - ng.gh.lan]()
+- Grasshorse Storage Gateway Overview [youtube - storage - sg.gh.lan]()
+- Grasshorse Compute Gateway Overview [youtube - compute - cg.gh.lan]()
 
-### Network Gateway configuration
+### Grasshorse Network Gateway configuration with [pfsense.org](https://www.pfsense.org/)
 - Grasshorse [pfSense setup](./pfsense/) via [document - Netstack pfSense - Setup](https://netstack.org/docs/lan/network/pfsense/setup)
 - tbd
 - tbd
