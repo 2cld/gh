@@ -19,8 +19,8 @@ Documents for Grasshorse Workflows
 - Grasshorse network disaster recovery (dr) - tbd
 
 ### Grasshorse Storage Gateway configuration with [freenas.org](https://www.freenas.org/) 
-- Grasshorse storage - freenas [document - freenas](./freenas/)
-- Grasshorse [tbd youtube - storage - sg.gh.lan]() detail [document - freenas - sg.gh.lan](./freenas/ghlanStorageOverviewDetail)
+- Grasshorse storage - freenas [document - freenas](./freeNAS/)
+- Grasshorse [tbd youtube - storage - sg.gh.lan]() detail [document - freenas - sg.gh.lan](./freeNAS/ghlanStorageOverviewDetail)
 - Grasshorse storage setup [document - Netstack freenas - Setup](https://netstack.org/docs/lan/storage/freenas/setup)
 - Grasshorse storage maintainace - tbd
 - Grasshorse storage disaster recovery (dr) - tbd
