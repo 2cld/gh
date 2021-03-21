@@ -4,7 +4,7 @@ Blender infrastructure and workflow support documentation.
 ## CAToDo
 - [blender/architecture](./architecture/) Setup for achitecture drawing in blender
 - [blender/architecture/catArchModelNotes](./architecture/catArchModelNotes) Chris notes as he learns blender architecture cad
-- [tbd]()
+- [blender/tutorial/learn-bg-anvil](./tutorial/learn-bg-anvil) Chris notes as he builds an anvil for an nft project
 - [tbd]()
 - [tbd]()
 - [tbd]()
