@@ -16,66 +16,296 @@
     - Tab E (Toggle to Edit mode, Extrude) to make trunk
     - Cntrl R (Loop Cuts) then scroll wheel to create 12 loop cuts
 4. [Prortional Edit the loop cuts tc6:38](https://youtu.be/yi87Dap_WOc?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=398)
-    - Sellect 3rd from top loop cut
+    - Select 3rd from top loop cut
     - O toogle proportional editing
     - S scale Shift-Z to NOT scale loops in Z
     - Enter to keep
-    - Save ass catanvil004.blend using "Save Copy"
-5. [Extrude top tc9:52]https://youtu.be/yi87Dap_WOc?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=592()
+    - Save as catanvil014.blend using "Save Copy"
+5. [Extrude top tc9:52](https://youtu.be/yi87Dap_WOc?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=592)
+    - Select top plane
+    - E Shift-Z -1 Extrude Z-axis -1 unit
+    - Select left plane
+    - E Shift-X -1 Extrude X-axis -1 unit
+    - Cntrl R 1 Loop cut one
+    - Select bottom left plane
+    - G Z -.2 Move up .2 units in Z-axis only
+6. [Extrude left and right sides tc10:11](https://youtu.be/yi87Dap_WOc?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=611)
+    - Select right plane
+    - E X 2 Extrude X-axis 2 units
+    - Cntrl R 5 Loop cut one
+    - Select top Loop cuts and Hide H
+    - Set Propotional edit to sphere
+    - Select bottom left edge to curl up
+    - Alt H to unhide hidden verts
+7. [Cleanup and save tc12:36](https://youtu.be/yi87Dap_WOc?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=756)
+    - Save as catanvil017.blend using "Save Copy"
+
+## Blender Intermediate Modelling Tutorial - Part 2
+
+1. [ tc]()
+    - test
+    - test
+    - test
+    - test
+2. [ tc]()
+    - test
+    - test
+    - test
+    - test
+3. [ tc]()
+    - test
+    - test
+    - test
+    - test
+4. [ tc]()
+    - test
+    - test
+    - test
+    - test
+5. [ tc]()
     - test
     - test
     - test
     - test
 6. [ tc]()
-    - test
-    - test
-    - test
-    - test
 7. [ tc]()
-    - test
-    - test
-    - test
-    - test
-8. [ tc]()
-    - test
-    - test
-    - test
-    - test
-9. [ tc]()
-    - test
-    - test
-    - test
-    - test
-10. [ tc]()
-    - test
-    - test
-    - test
-    - test
-11. [ tc]()
-    - test
-    - test
-    - test
-    - test
-12. [ tc]()
-    - test
-    - test
-    - test
-    - test
-13. [ tc]()
-    - test
-    - test
-    - test
-    - test
-14. [ tc]()
-    - test
-    - test
-    - test
-    - test
-15. [ tc]()
-    - test
-    - test
-    - test
-    - test
-16. [ tc]()
-17. [ tc]()
 
+## Blender Intermediate Modelling Tutorial - Part 3
+
+1. [ tc]()
+    - test
+    - test
+    - test
+    - test
+2. [ tc]()
+    - test
+    - test
+    - test
+    - test
+3. [ tc]()
+    - test
+    - test
+    - test
+    - test
+4. [ tc]()
+    - test
+    - test
+    - test
+    - test
+5. [ tc]()
+    - test
+    - test
+    - test
+    - test
+6. [ tc]()
+7. [ tc]()
+
+## Blender Intermediate Modelling Tutorial - Part 4
+
+1. [ tc]()
+    - test
+    - test
+    - test
+    - test
+2. [ tc]()
+    - test
+    - test
+    - test
+    - test
+3. [ tc]()
+    - test
+    - test
+    - test
+    - test
+4. [ tc]()
+    - test
+    - test
+    - test
+    - test
+5. [ tc]()
+    - test
+    - test
+    - test
+    - test
+6. [ tc]()
+7. [ tc]()
+
+## Blender Intermediate Modelling Tutorial - Part 5 - UV Unwrapping
+
+1. [ tc]()
+    - test
+    - test
+    - test
+    - test
+2. [ tc]()
+    - test
+    - test
+    - test
+    - test
+3. [ tc]()
+    - test
+    - test
+    - test
+    - test
+4. [ tc]()
+    - test
+    - test
+    - test
+    - test
+5. [ tc]()
+    - test
+    - test
+    - test
+    - test
+6. [ tc]()
+7. [ tc]()
+
+## Blender Intermediate Modelling Tutorial - Part 6 Scuipt Details
+
+1. [ tc]()
+    - test
+    - test
+    - test
+    - test
+2. [ tc]()
+    - test
+    - test
+    - test
+    - test
+3. [ tc]()
+    - test
+    - test
+    - test
+    - test
+4. [ tc]()
+    - test
+    - test
+    - test
+    - test
+5. [ tc]()
+    - test
+    - test
+    - test
+    - test
+6. [ tc]()
+7. [ tc]()
+
+## Blender Intermediate Modelling Tutorial - Part 7 Normals
+
+1. [ tc]()
+    - test
+    - test
+    - test
+    - test
+2. [ tc]()
+    - test
+    - test
+    - test
+    - test
+3. [ tc]()
+    - test
+    - test
+    - test
+    - test
+4. [ tc]()
+    - test
+    - test
+    - test
+    - test
+5. [ tc]()
+    - test
+    - test
+    - test
+    - test
+6. [ tc]()
+7. [ tc]()
+
+## Blender Intermediate Modelling Tutorial - Texturing Part 1
+
+1. [ tc]()
+    - test
+    - test
+    - test
+    - test
+2. [ tc]()
+    - test
+    - test
+    - test
+    - test
+3. [ tc]()
+    - test
+    - test
+    - test
+    - test
+4. [ tc]()
+    - test
+    - test
+    - test
+    - test
+5. [ tc]()
+    - test
+    - test
+    - test
+    - test
+6. [ tc]()
+7. [ tc]()
+
+## Blender Intermediate Modelling Tutorial - Texturing Part 2
+
+1. [ tc]()
+    - test
+    - test
+    - test
+    - test
+2. [ tc]()
+    - test
+    - test
+    - test
+    - test
+3. [ tc]()
+    - test
+    - test
+    - test
+    - test
+4. [ tc]()
+    - test
+    - test
+    - test
+    - test
+5. [ tc]()
+    - test
+    - test
+    - test
+    - test
+6. [ tc]()
+7. [ tc]()
+
+## Blender Intermediate Modelling Tutorial - Texturing Part 3
+
+1. [ tc]()
+    - test
+    - test
+    - test
+    - test
+2. [ tc]()
+    - test
+    - test
+    - test
+    - test
+3. [ tc]()
+    - test
+    - test
+    - test
+    - test
+4. [ tc]()
+    - test
+    - test
+    - test
+    - test
+5. [ tc]()
+    - test
+    - test
+    - test
+    - test
+6. [ tc]()
+7. [ tc]()
