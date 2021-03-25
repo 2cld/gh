@@ -40,17 +40,16 @@
 7. [Cleanup and save tc12:36](https://youtu.be/yi87Dap_WOc?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=756)
     - Save as catanvil017.blend using "Save Copy"
 
-## Blender Intermediate Modelling Tutorial - Part 2
+## [Blender Intermediate Modelling Tutorial - Part 2](https://youtu.be/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
 
-1. [ tc]()
-    - test
-    - test
-    - test
-    - test
-2. [ tc]()
-    - test
-    - test
-    - test
+1. [Boolean Cut object tc3:45](https://youtu.be/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=225)
+    - 7 top view
+    - Shift-A m y enter  Add Mesh cYlinder 
+    - g y -1.5 enter Grab selected y-axis Move -1.5 units 
+2. [Boolean Cut Select tc3:53](https://youtu.be/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=233)
+    - Select object you want to keep first
+    - Add Modifier (wrench icon) Boolean Operation Difference
+    - Click on eyedroper then click on cylinder to select
     - test
 3. [ tc]()
     - test
