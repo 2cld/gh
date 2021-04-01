@@ -9,8 +9,14 @@
     - Delete everything in scene
     - Save as catanvil001.blend using "Save Copy"
 2. [Start with plane tc4:11](https://youtu.be/yi87Dap_WOc?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=251)
-    - Shift-A Mesh Plane
-    - Tab E (Toggle to Edit mode, Extrude) some units up
+    - I started with the default cube as when I used the plane I did not get the normals correct
+    - Shift-A Mesh Plane (Cube)
+    - Select cube object mode
+    - g z 1 return - Grab z move 1 unit up
+    - Alt-z (toggle on xray) 
+    - Tab E (Toggle to Edit mode)
+    - Select top plane
+    - e z 2 (extrude up 2 units)
 3. [Tappered Loop Cuts tc6:06](https://youtu.be/yi87Dap_WOc?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=366)
     - Shift-A Mesh Plane
     - Tab E (Toggle to Edit mode, Extrude) to make trunk
@@ -39,6 +45,7 @@
     - Alt H to unhide hidden verts
 7. [Cleanup and save tc12:36](https://youtu.be/yi87Dap_WOc?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=756)
     - Save as catanvil017.blend using "Save Copy"
+    - Save fixed normals as catanvil017-2.blend using "Save Copy"
 
 ## Blender Intermediate Modelling Tutorial - [Part 2](https://youtu.be/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
 <iframe src="https://www.youtube.com/embed/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -51,24 +58,30 @@
     - Select object you want to keep first
     - Add Modifier (wrench icon) Boolean Operation Difference
     - Click on eyedroper then click on cylinder to select
-    - test
-3. [ tc]()
-    - test
-    - test
-    - test
-    - test
-4. [ tc]()
-    - test
-    - test
-    - test
-    - test
-5. [ tc]()
-    - test
-    - test
-    - test
-    - test
+3. [Mirror operation tc](https://youtu.be/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=380)
+    - Add Modifier Mirror
+    - Need to loop cut and delete object y axis
+    - 7 (top view) Tab (Edit mode) Select verts in pos y
+    - Ctrl R (add loop cut at half) rght click enter
+    - x (delete vertices) enter
+4. [Save to another page before merge apply tc](https://youtu.be/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=482)
+    - Shift D (Duplicate)
+    - M (Move)
+    - Apply Boolean
+    - Delete Cylinder
+5. [Clean up mesh tc](https://youtu.be/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=571)
+    - Add Subsurface Modifier (just to see the mess)
+    - k x click enter (Knife tool c to constrain click to edge)
+    - select edge g g slide to good
+    - a (select all) mesh -> cleanup -> merge by distance
+    - merge any 3 point verts into 1
+    - select verts alt-m to merge at center
+    - ctrl R to loop cut from the vert
+    - delete the face with 5 verts
+    - add two faces with 4 verts
 6. [ tc]()
-7. [ tc]()
+    - Save fixed normals as catanvil026.blend using "Save Copy"
+
 
 ## Blender Intermediate Modelling Tutorial - [Part 3]()
 
