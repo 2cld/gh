@@ -1,6 +1,6 @@
 # Create an Anvil with [Blender Guru](https://www.youtube.com/watch?v=7tdUxzhEy_E&list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
 
-## Blender Intermediate Modelling Tutorial - Part 1
+## Blender Intermediate Modelling Tutorial - [Part 1](https://www.youtube.com/embed/yi87Dap_WOc?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
 <iframe src="https://www.youtube.com/embed/yi87Dap_WOc?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. [Setup workspace tc2:02](https://youtu.be/yi87Dap_WOc?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=122)
@@ -40,7 +40,8 @@
 7. [Cleanup and save tc12:36](https://youtu.be/yi87Dap_WOc?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=756)
     - Save as catanvil017.blend using "Save Copy"
 
-## [Blender Intermediate Modelling Tutorial - Part 2](https://youtu.be/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
+## Blender Intermediate Modelling Tutorial - [Part 2](https://youtu.be/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
+<iframe src="https://youtu.be/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. [Boolean Cut object tc3:45](https://youtu.be/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=225)
     - 7 top view
@@ -69,7 +70,7 @@
 6. [ tc]()
 7. [ tc]()
 
-## Blender Intermediate Modelling Tutorial - Part 3
+## Blender Intermediate Modelling Tutorial - [Part 3]()
 
 1. [ tc]()
     - test
@@ -99,7 +100,7 @@
 6. [ tc]()
 7. [ tc]()
 
-## Blender Intermediate Modelling Tutorial - Part 4
+## Blender Intermediate Modelling Tutorial - [Part 4]()
 
 1. [ tc]()
     - test
@@ -129,7 +130,7 @@
 6. [ tc]()
 7. [ tc]()
 
-## Blender Intermediate Modelling Tutorial - Part 5 - UV Unwrapping
+## Blender Intermediate Modelling Tutorial - [Part 5 - UV Unwrapping]()
 
 1. [ tc]()
     - test
@@ -159,7 +160,7 @@
 6. [ tc]()
 7. [ tc]()
 
-## Blender Intermediate Modelling Tutorial - Part 6 Scuipt Details
+## Blender Intermediate Modelling Tutorial - [Part 6 Scuipt Details]()
 
 1. [ tc]()
     - test
@@ -189,7 +190,7 @@
 6. [ tc]()
 7. [ tc]()
 
-## Blender Intermediate Modelling Tutorial - Part 7 Normals
+## Blender Intermediate Modelling Tutorial - [Part 7 Normals]()
 
 1. [ tc]()
     - test
@@ -219,7 +220,7 @@
 6. [ tc]()
 7. [ tc]()
 
-## Blender Intermediate Modelling Tutorial - Texturing Part 1
+## Blender Intermediate Modelling Tutorial - [Texturing Part 1]()
 
 1. [ tc]()
     - test
@@ -249,7 +250,7 @@
 6. [ tc]()
 7. [ tc]()
 
-## Blender Intermediate Modelling Tutorial - Texturing Part 2
+## Blender Intermediate Modelling Tutorial - [Texturing Part 2]()
 
 1. [ tc]()
     - test
@@ -279,7 +280,7 @@
 6. [ tc]()
 7. [ tc]()
 
-## Blender Intermediate Modelling Tutorial - Texturing Part 3
+## Blender Intermediate Modelling Tutorial - [Texturing Part 3]()
 
 1. [ tc]()
     - test
