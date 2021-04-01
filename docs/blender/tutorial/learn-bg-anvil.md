@@ -41,7 +41,7 @@
     - Save as catanvil017.blend using "Save Copy"
 
 ## Blender Intermediate Modelling Tutorial - [Part 2](https://youtu.be/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
-<iframe src="https://youtu.be/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. [Boolean Cut object tc3:45](https://youtu.be/WxMwa0njGSM?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a&t=225)
     - 7 top view
