@@ -20,30 +20,22 @@ Documents for gh ops
 - sg.gh.lan storage disaster recovery (dr) - tbd
 
 ### Compute Gateway configuration
-- cg.gh.lan compute - xcp-ng [document - xcp-ng](./xcp-ng/)
-- cg.gh.lan [tbd youtube - storage - sg.gh.lan]() detail [document - freenas - sg.gh.lan](./xcp-ng/ghlanComputeOverviewDetail)
+- cg.gh.lan compute uses xcp-ng [document - xcp-ng](./xcp-ng/)
+- cg.gh.lan [tbd youtube - storage - cg.gh.lan]() detail [document - xcp-ng - cg.gh.lan](./xcp-ng/ghlanComputeOverviewDetail)
 - cg.gh.lan compute setup [document - Netstack xcp-ng - Setup](https://netstack.org/docs/lan/compute/xcp-ng/setup)
 - cg.gh.lan compute maintainace - tbd
 - cg.gh.lan compute disaster recovery (dr) - tbd
 
 
-- [Data and Backups]()
-- [Workstation Setup]()
-- [Magma Useage]()
-- [Blender]()
-- [Render Grid]()
-
-## General
-1. Grasshorse [Artist Overview](artistOverview.md)
-2. Grasshorse [Artist Workflow](artestWorkflow.md)
-3. Grasshorse [rendergrid Overview](overview.html)
-4. Grasshorse [rendergrid Workflow](workflow.html)
-5. Grasshorse [rendergrid Manage Grid](gridmanage.html)
-6. Grasshorse [rendergrid Farm - Shared Storage](gridfarm.html)
+- todo [Data and Backups]()
+- todo [Workstation Setup]()
+- todo [Magma Useage]()
+- todo [Blender]()
+- todo [Render Grid]()
 
 ## Setup
-Grasshorse rendernode bn000template](bn000template.html) setup
-Grasshorse rendernode ghrenderService](ghrenderService.html) create
+- rendernode [bn000template](bn000template.html) setup
+- rendernode [ghrenderService](ghrenderService.html) create
 
 ## FIX Notes
 - Grasshorse rendernode [blenderCacheBake](blenderCacheBake.html) FIX
