@@ -20,7 +20,7 @@ Documents for gh ops
     - client storage configuration [document - Windows10 client - SMB mount](https://netstack.org/docs/lan/storage/freenas/setup#windows-10-map-network-drive)
 - sg.gh.lan storage disaster recovery (dr) - tbd
 
-## [cg.gh.lan](https://cg.gh.lan) Compute Gateway configuration
+## [cg.gh.lan](https://cg.gh.lan) Compute Gateway configuration with [xcp-ng](https://xcp-ng.org)
 - cg.gh.lan compute uses xcp-ng [document - xcp-ng](./xcp-ng/)
 - cg.gh.lan [tbd youtube - storage - cg.gh.lan]() detail [document - xcp-ng - cg.gh.lan](./xcp-ng/ghlanComputeOverviewDetail)
 - cg.gh.lan compute setup [document - Netstack xcp-ng - Setup](https://netstack.org/docs/lan/compute/xcp-ng/setup)
