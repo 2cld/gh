@@ -12,11 +12,12 @@ Documents for gh ops
 - ng.gh.lan network maintainace - tbd
 - ng.gh.lan network disaster recovery (dr) - tbd
 
-### sg.gh.lan Storage Gateway configuration with [freenas.org](https://www.freenas.org/) 
+## sg.gh.lan Storage Gateway configuration with [freenas.org](https://www.freenas.org/) 
 - sg.gh.lan storage - freenas [document - freenas](./freeNAS/)
 - sg.gh.lan [tbd youtube - storage - sg.gh.lan]() detail [document - freenas - sg.gh.lan](./freeNAS/ghlanStorageOverviewDetail)
-- sg.gh.lan storage setup [document - Netstack freenas - Setup](https://netstack.org/docs/lan/storage/freenas/setup)
+- sg.gh.lan storage setup [document - netstack freenas - Setup](https://netstack.org/docs/lan/storage/freenas/setup)
 - sg.gh.lan storage maintainace - tbd
+    - client storage configuration [document - Windows10 client - SMB mount](https://netstack.org/docs/lan/storage/freenas/setup#windows-10-map-network-drive)
 - sg.gh.lan storage disaster recovery (dr) - tbd
 
 ### Compute Gateway configuration
