@@ -1,11 +1,14 @@
 # Blender 
 Blender infrastructure and workflow support documentation.   
 
+## Quick Links
+- [Blender Cheatsheet 0v1.pdf](./Blender%20Cheatsheet%20v1.pdf)
+
 ## CAToDo
 - [blender/architecture](./architecture/) Setup for achitecture drawing in blender
 - [blender/architecture/catArchModelNotes](./architecture/catArchModelNotes) Chris notes as he learns blender architecture cad
 - [blender/tutorial/learn-bg-anvil](./tutorial/learn-bg-anvil) Chris notes as he builds an anvil for an nft project
-- [tbd]()
+- [blender/](./blender-create-shelf) Chris creates shelf for data center airflow issue
 - [tbd]()
 - [tbd]()
 - [tbd]()
