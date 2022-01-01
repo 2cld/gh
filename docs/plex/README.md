@@ -81,3 +81,22 @@
 - [ZeroTier libzt](https://github.com/zerotier/libzt)
 - [ZeroTier API.md](https://github.com/zerotier/libzt/blob/master/API.md)
 - [WebRTC examples](https://webrtc.github.io/samples/)
+
+## Config CedarFalls
+- [https://plex.tv/]{https://plex.tv/) CHRISTREES - catMacMini [PlexDashboard](https://app.plex.tv/desktop/#!/settings/server/f527091f85893bb1c8fe559992f8497ef81d7d81/status/server-dashboard)
+- Plex Network Setup
+    - [catMacMini-PlexRemoteAcess](https://app.plex.tv/desktop/#!/settings/server/f527091f85893bb1c8fe559992f8497ef81d7d81/settings/remoteAccess)
+    - catMacMini - Plex - 192.168.2.35:32400
+    - Local Router PortForward [http://192.168.2.1/Advanced_VirtualServer_Content.asp](http://192.168.2.1/Advanced_VirtualServer_Content.asp)
+    - Local next IP 192.168.2.11
+    - CFU Router DMZ to 192.168.2.11 [http://192.168.6.1/#/html/advanced/security/advanced_security_dmzhosting.html](http://192.168.6.1/#/html/advanced/security/advanced_security_dmzhosting.html)
+- Plex Library Setup
+    - [https://app.plex.tv/desktop/#!/settings/server/f527091f85893bb1c8fe559992f8497ef81d7d81/settings/library](https://app.plex.tv/desktop/#!/settings/server/f527091f85893bb1c8fe559992f8497ef81d7d81/settings/library)
+    - [https://app.plex.tv/desktop/#!/settings/server/f527091f85893bb1c8fe559992f8497ef81d7d81/manage/libraries](https://app.plex.tv/desktop/#!/settings/server/f527091f85893bb1c8fe559992f8497ef81d7d81/manage/libraries)
+    - tbd
+- Plex Live TV DVR Setup
+    - [https://app.plex.tv/desktop/#!/settings/server/f527091f85893bb1c8fe559992f8497ef81d7d81/manage/dvr](https://app.plex.tv/desktop/#!/settings/server/f527091f85893bb1c8fe559992f8497ef81d7d81/manage/dvr)
+    - May need to edit tuner list by clicking on tuner channels and matchin guide list
+    - tbd
+- tbd
+    - tbd
