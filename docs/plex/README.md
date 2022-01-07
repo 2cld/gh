@@ -83,7 +83,7 @@
 - [WebRTC examples](https://webrtc.github.io/samples/)
 
 ## Config CedarFalls
-- [https://plex.tv/]{https://plex.tv/) CHRISTREES - catMacMini [PlexDashboard](https://app.plex.tv/desktop/#!/settings/server/f527091f85893bb1c8fe559992f8497ef81d7d81/status/server-dashboard)
+- [https://plex.tv/](https://plex.tv/) CHRISTREES - catMacMini [PlexDashboard](https://app.plex.tv/desktop/#!/settings/server/f527091f85893bb1c8fe559992f8497ef81d7d81/status/server-dashboard)
 - Plex Network Setup
     - [catMacMini-PlexRemoteAcess](https://app.plex.tv/desktop/#!/settings/server/f527091f85893bb1c8fe559992f8497ef81d7d81/settings/remoteAccess)
     - catMacMini - Plex - 192.168.2.35:32400
@@ -100,3 +100,10 @@
     - tbd
 - tbd
     - tbd
+
+## Config for Silicon Dust
+- catMacMini - Plex - 192.168.2.35:32400
+- SiliconDust - Silicon Dust - 192.168.2.31
+- Local Router PortForward [http://192.168.2.1/Advanced_VirtualServer_Content.asp](http://192.168.2.1/Advanced_VirtualServer_Content.asp)
+  - 192.168.2.1:32400 - 192.168.2.35:32400
+  - 192.168.2.1:80 - 192.168.2.31:80
