@@ -2,6 +2,14 @@
 gh 2cld Open Standards Network Project
 
 # 2023 Project Proposal
+- Create LLC name tbd - Target is educational opensource based production (mainly blender and blender add-ons)
+  - Donate personal digital capital assets for video production
+  - Offer purchase any Grasshorse capital assets (up to Steve) 
+  - The main purpose is to create a supportable IT technology stack (see CroftUP) educational verticals
+  - Project 1 - Blender and Robot Digital twin (see Blender Animation inititive) - sponsor Steve for SEC target
+  - Project 2 - Clinic Support Staff training for TeleHealth - sponsor Brad  with UNI target (talk to Carol)
+  - Project 3 - Blender robot AI simulation tools - sponsor Chris with co.bot target
+  - Project 4 - Local Media distribution network
 - Udemy Stop Motion Animation Course
 - Stop Motion Animation Blender python addon
 - Stop Motion Animation Robot Blender python addon
