@@ -1,5 +1,5 @@
 # Blender 
-Blender infrastructure and workflow support documentation.   
+Blender infrastructure and workflow support documentation.  [Edit this](https://github.com/2cld/gh/edit/master/docs/blender/README.md)
 
 ## Quick Links
 - [Blender Cheatsheet 0v1.pdf](./Blender%20Cheatsheet%20v1.pdf)
@@ -29,6 +29,7 @@ Blender test machine is on the ghadmin - horseoff [network](https://my.zerotier.
 - Blender [100 Blender 2.8 tips with index](https://www.youtube.com/watch?v=_9dEqM3H31g)
 - Blender [Create Shelf](https://www.youtube.com/watch?v=OOBKo-O6i_8&feature=youtu.be&t=27)
 - Blender [aur blender shelf](https://www.youtube.com/watch?v=ElGc34VtoA4)
+- Blender [Learning Blender 2023 tutorial reviews](https://www.youtube.com/watch?v=8K4AShjq-MU)
 
 ## Precision Transformations
 1. Object Transform
