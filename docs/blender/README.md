@@ -30,6 +30,9 @@ Blender test machine is on the ghadmin - horseoff [network](https://my.zerotier.
 - Blender [Create Shelf](https://www.youtube.com/watch?v=OOBKo-O6i_8&feature=youtu.be&t=27)
 - Blender [aur blender shelf](https://www.youtube.com/watch?v=ElGc34VtoA4)
 - Blender [Learning Blender 2023 tutorial reviews](https://www.youtube.com/watch?v=8K4AShjq-MU)
+- BlenderBIM [IFC Architect](https://www.youtube.com/@IfcArchitect/videos)
+- BlenderBIM [https://blenderbim.org](https://blenderbim.org/index.html)
+- BlenderBIM [https://ifcopenshell.org/](https://ifcopenshell.org/)
 
 ## Precision Transformations
 1. Object Transform
