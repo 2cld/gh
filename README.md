@@ -1,5 +1,5 @@
 # gh
-gh 2cld Open Standards Network Project
+gh 2cld Open Standards Network Project. [Edit this](https://github.com/2cld/gh/edit/master/README.md)
 
 # 2023 Project Proposal
 - Create LLC name tbd - Target is educational opensource based production (mainly blender and blender add-ons)
