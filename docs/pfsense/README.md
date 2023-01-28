@@ -3,6 +3,8 @@
 # pfSense 
 tbd
 
+- [Pfsense: Enable 1:1 NAT to Acesses DMZ](https://www.youtube.com/watch?v=1wn2io8EWvs)
+
 ## gh.lan Overview [youtube - ghlan Network Overview](https://youtu.be/HJzfB8MpkJg)
 ![ghlearn-ghlanNetworkOverviewDiagram](ghlearn-ghlanNetworkOverviewDiagram.jpeg)
 
