@@ -1,10 +1,27 @@
 # ProxMox Setup for VM
 
+- [ProxMox = H2DC - How to do Computers](https://www.youtube.com/playlist?list=PLk3oVaFzBUufFbrE4Y0gnQcjzfmEmT93o0)
+    - [Configuring Storage in ProxMox](https://www.youtube.com/watch?v=HqOGeqT-SCA)
+= [Proxmox - Techno Tim](https://www.youtube.com/playlist?list=PL8cwSAAaP9W37Vnxkw6__sshVY-XohWNm)
+= [Proxmox Tutorials - apalrd's adventures](https://www.youtube.com/playlist?list=PLZcFwaChdgSpJLyxoXd2mf_JsokmwlLKi)
+    - [Turning Proxmox Into a Pretty Good NAS](https://youtu.be/Hu3t8pcq8O0)
+- [Proxmox Full Course - Learn Linux TV](https://www.youtube.com/playlist?list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
+
 ## Mantainance
 
-1. Add Storage from [catfreenas.gh.lan http://192.168.252.2/](http://192.168.252.2/)
+1. Add Hardrives [Configuring Storage in ProxMox](https://www.youtube.com/watch?v=HqOGeqT-SCA) using [https://cf.christrees.com/ns/](https://cf.christrees.com/ns/)
+    - [tbd]()
+    - [tbd]()
+    - [tbd]()
+2. Add NAS container [Turning Proxmox Into a Pretty Good NAS](https://youtu.be/Hu3t8pcq8O0)
+    - [tbd]()
+    - [tbd]()
+    - [tbd]()
+3. Add Storage from [catfreenas.gh.lan http://192.168.252.2/](http://192.168.252.2/)
     - Datacenter -> Storage -> Add -> NFS
-    - 
+    - [tbd]()
+    - [tbd]()
+    - [tbd]()
 
 ## Setup
 - [ProxMox Windows 10 VM best practices](https://pve.proxmox.com/wiki/Windows_10_guest_best_practices)
