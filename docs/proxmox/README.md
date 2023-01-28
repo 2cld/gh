@@ -10,7 +10,7 @@
 ## Mantainance
 
 1. Add Hardrives [Configuring Storage in ProxMox](https://www.youtube.com/watch?v=HqOGeqT-SCA) using [https://cf.christrees.com/ns/](https://cf.christrees.com/ns/)
-    - [tbd]()
+    - [https://192.168.6.103:8006/](https://192.168.6.103:8006/) Proxmox server
     - [tbd]()
     - [tbd]()
 2. Add NAS container [Turning Proxmox Into a Pretty Good NAS](https://youtu.be/Hu3t8pcq8O0)
