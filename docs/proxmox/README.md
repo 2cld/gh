@@ -2,8 +2,8 @@
 
 - [ProxMox = H2DC - How to do Computers](https://www.youtube.com/playlist?list=PLk3oVaFzBUufFbrE4Y0gnQcjzfmEmT93o0)
     - [Configuring Storage in ProxMox](https://www.youtube.com/watch?v=HqOGeqT-SCA)
-= [Proxmox - Techno Tim](https://www.youtube.com/playlist?list=PL8cwSAAaP9W37Vnxkw6__sshVY-XohWNm)
-= [Proxmox Tutorials - apalrd's adventures](https://www.youtube.com/playlist?list=PLZcFwaChdgSpJLyxoXd2mf_JsokmwlLKi)
+- [Proxmox - Techno Tim](https://www.youtube.com/playlist?list=PL8cwSAAaP9W37Vnxkw6__sshVY-XohWNm)
+- [Proxmox Tutorials - apalrd's adventures](https://www.youtube.com/playlist?list=PLZcFwaChdgSpJLyxoXd2mf_JsokmwlLKi)
     - [Turning Proxmox Into a Pretty Good NAS](https://youtu.be/Hu3t8pcq8O0)
 - [Proxmox Full Course - Learn Linux TV](https://www.youtube.com/playlist?list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
 
