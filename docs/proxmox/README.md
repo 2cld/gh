@@ -65,21 +65,21 @@
     - [Add cockpit modules](https://youtu.be/Hu3t8pcq8O0?t=581)
       - [https://github.com/45Drives/cockpit-file-sharing](https://github.com/45Drives/cockpit-file-sharing)
       ```bash
-      curl -LO https://github.com/45Drives/cockpit-file-sharing/releases/download/v3.2.9/cockpit-file-sharing_3.2.9-2focal_all.deb
+      wget https://github.com/45Drives/cockpit-file-sharing/releases/download/v3.2.9/cockpit-file-sharing_3.2.9-2focal_all.deb
       ```
       ```bash
       apt install ./cockpit-file-sharing_3.2.9-2focal_all.deb 
       ```
       - [https://github.com/45Drives/cockpit-navigator](https://github.com/45Drives/cockpit-navigator)
       ```bash
-      curl -LO https://github.com/45Drives/cockpit-navigator/releases/download/v0.5.10/cockpit-navigator_0.5.10-1focal_all.deb
+      wget https://github.com/45Drives/cockpit-navigator/releases/download/v0.5.10/cockpit-navigator_0.5.10-1focal_all.deb
       ```
       ```bash
       apt install ./cockpit-navigator_0.5.10-1focal_all.deb
       ```
       - [https://github.com/45Drives/cockpit-identities](https://github.com/45Drives/cockpit-identities)
       ```bash
-      curl -LO https://github.com/45Drives/cockpit-navigator/releases/download/v0.5.10/cockpit-navigator_0.5.10-1focal_all.deb
+      wget https://github.com/45Drives/cockpit-navigator/releases/download/v0.5.10/cockpit-navigator_0.5.10-1focal_all.deb
       ```
       ```bash
       apt install ./cockpit-navigator_0.5.10-1focal_all.deb
