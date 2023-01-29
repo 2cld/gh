@@ -79,10 +79,10 @@
       ```
       - [https://github.com/45Drives/cockpit-identities](https://github.com/45Drives/cockpit-identities)
       ```bash
-      wget https://github.com/45Drives/cockpit-navigator/releases/download/v0.5.10/cockpit-navigator_0.5.10-1focal_all.deb
+      wget https://github.com/45Drives/cockpit-identities/releases/download/v0.1.10/cockpit-identities_0.1.10-1focal_all.deb
       ```
       ```bash
-      apt install ./cockpit-navigator_0.5.10-1focal_all.deb
+      apt install ./cockpit-identities_0.1.10-1focal_all.deb
       ```
     - Verify models added to cockpit ui on left tab [https://192.168.2.2:9090](https://192.168.2.2:9090) from the 192.168.2.0/24 subnet only
     - [tbd]()
