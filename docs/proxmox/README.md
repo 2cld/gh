@@ -11,12 +11,62 @@
 
 1. Add Hardrives [Configuring Storage in ProxMox](https://www.youtube.com/watch?v=HqOGeqT-SCA) using [https://cf.christrees.com/ns/](https://cf.christrees.com/ns/)
     - [https://192.168.6.103:8006/](https://192.168.6.103:8006/) Proxmox server
+    - [Proxmox - ZFS on Linux](https://pve.proxmox.com/wiki/ZFS_on_Linux#sysadmin_zfs_raid_considerations)
+    - See all storage
+      ```bash
+      root@cf:~# lsblk
+      ```
+    - [smartctl -a /dev/sda youtube](https://youtu.be/GoZaMgEgrHw?t=354)
+      ```bash
+      root@cf:~# smartctl -a /dev/sdb
+      ```
+    - [fdisk /dev/sdb youtube](https://youtu.be/GoZaMgEgrHw?t=245)
+      ```bash
+      root@cf:~# fdisk /dev/sdb
+      ```
+      ```bash
+      p - partition list
+      d - delete partitions
+      g - gpt
+      w - write out
+      ```
+    - [Disk wipe Error disk/partition '/dev/sdb' has a holder (500)](https://forum.proxmox.com/threads/pve7-wipe-disk-doesnt-work-in-gui.92198/)
+      ```bash
+      root@cf:~# dd if=/dev/zero of=/dev/sdb
+      ```
+    - [Configure ZFS storage - clear disks](https://youtu.be/GoZaMgEgrHw?t=191) 
+    - [Configure ZFS storage - Create ZFS](https://youtu.be/GoZaMgEgrHw?t=285) Drive-ZFS-CreateZFS
+      - Name: zfs2tb - RAID: Single Disk - Compression: on - ashift 12 - device: /dev/sdb
+      - Name: zfs3tc - RAID: Single Disk - Compression: on - ashift 12 - device: /dev/sdc
+      - Name: zfs3td - RAID: Single Disk - Compression: on - ashift 12 - device: /dev/sdd
+    - [tbd]()
+2. Add NAS container [Turning Proxmox Into a Pretty Good NAS - youtube](https://youtu.be/Hu3t8pcq8O0) [blog post](https://www.apalrd.net/posts/2023/ultimate_nas/)
+    - [Create container for NAS using template](https://youtu.be/Hu3t8pcq8O0?t=111) debian-11-standard
+      - Node: cg Name: catnas CTID: 102 storsge: local-lvm 8G CPU: 2 Mem: 512 Net: 192.168.2.2/24 gw 192.168.2.1 vmbr0
+    - [Update sources list](https://youtu.be/Hu3t8pcq8O0?t=386)
+      ```bash
+      vi /etc/apt/sources.list
+      ```
+      ```bash
+      deb http://deb.debian.org/debian bullseye-backports main contrib
+      ```
+      ```bash
+      apt update $$ apt full-upgrade
+      ```
+    - [Install Cockpit](https://youtu.be/Hu3t8pcq8O0?t=460)
+      ```bash
+      apt install -t bullseye-backports cockpit --no-install-recommends
+      ```
+    - [Allow root login](https://youtu.be/Hu3t8pcq8O0?t=531) delete root in /etc/cockpit/disallowed-users
+      ```bash
+      vi /etc/cockpit/disallowed-users
+      ```
+    - Login to cockpit ui [https://192.168.2.2:9090](https://192.168.2.2:9090)
     - [tbd]()
     - [tbd]()
-2. Add NAS container [Turning Proxmox Into a Pretty Good NAS](https://youtu.be/Hu3t8pcq8O0)
     - [tbd]()
     - [tbd]()
-    - [tbd]()
+
 3. Add Storage from [catfreenas.gh.lan http://192.168.252.2/](http://192.168.252.2/)
     - Datacenter -> Storage -> Add -> NFS
     - [tbd]()
