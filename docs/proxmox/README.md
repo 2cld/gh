@@ -84,10 +84,21 @@
       ```bash
       apt install ./cockpit-identities_0.1.10-1focal_all.deb
       ```
+    - remove deb packages in root
+      ```bash
+      cd ~
+      pwd
+      ls
+      ```
+      ```bash
+      rm *.deb
+      ```
     - Verify models added to cockpit ui on left tab [https://192.168.2.2:9090](https://192.168.2.2:9090) from the 192.168.2.0/24 subnet only
-    - [tbd]()
-    - [tbd]()
-    - [tbd]()
+    - [Click on File Sharing - click on Fix Now warning](https://youtu.be/Hu3t8pcq8O0?t=692)
+    - [Add Storage to catnas container](https://youtu.be/Hu3t8pcq8O0?t=710)
+      - cg->102->resources->add->mountpoint
+      - mountpointID: 0 Storage: zfs2tb Disksize: 1000 Path: /mnt/zfs2tbplexdvr
+    - [Add Users to catnas container](https://youtu.be/Hu3t8pcq8O0?t=795)
 
 3. Add Storage from [catfreenas.gh.lan http://192.168.252.2/](http://192.168.252.2/)
     - Datacenter -> Storage -> Add -> NFS
