@@ -51,7 +51,7 @@
       deb http://deb.debian.org/debian bullseye-backports main contrib
       ```
       ```bash
-      apt update $$ apt full-upgrade
+      apt update && apt full-upgrade
       ```
     - [Install Cockpit](https://youtu.be/Hu3t8pcq8O0?t=460)
       ```bash
