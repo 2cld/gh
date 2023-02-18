@@ -17,3 +17,4 @@
 
 - [Virtual Box download](https://www.virtualbox.org/wiki/Downloads)
 - [Microsoft Visual C++ Redistributable for Visual Studio 2017](https://visualstudio.microsoft.com/vs/older-downloads/)
+- [Microsoft Visual C++ Redistributable for Visual Studio 2019](https://my.visualstudio.com/Downloads?q=visual%20studio%202019&wt.mc_id=o~msft~vscom~older-downloads)
