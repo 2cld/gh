@@ -1,4 +1,6 @@
-Documents for gh ops
+[edit](https://github.com/2cld/gh/edit/master/docs/README.md)
+
+[Network Map](./ghNetworkMap)
 
 ## [gh.lan](http://gh.2cld.net) using [netstack](https://netstack.org/docs) organizational service gateways
 - ng.gh.lan Network Gateway Overview [youtube - network - ng.gh.lan](https://youtu.be/HJzfB8MpkJg) detail [document - pfsense - ng.gh.lan](./pfsense/ghlanOverviewDetail)
