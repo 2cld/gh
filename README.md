@@ -1,7 +1,16 @@
 # gh
 gh 2cld Open Standards Network Project. [Edit this](https://github.com/2cld/gh/edit/master/README.md)
 
-# 2023 Project Proposal
+# 2023 July cold storage project
+- grasshorse data backup index
+- grasshorse network shutdown
+- cat crap corner
+- personal backup data
+- inplace inventory
+- Brayden stuff (ask brad, get portalTV)
+- Brad media backup
+  
+# 2023 Project Proposal review required
 - Create LLC name tbd - Target is educational opensource based production (mainly blender and blender add-ons)
   - Donate personal digital capital assets for video production
   - Offer purchase any Grasshorse capital assets (up to Steve) 
