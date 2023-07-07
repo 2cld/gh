@@ -1,9 +1,30 @@
 [edit](https://github.com/2cld/gh/edit/master/docs/coldstorage/README.md)
 # gh coldstorage
-
 Mapping the status of network and devices for coldstorage.
 
-wip info [https://github.com/christrees/wip/edit/main/labnotes/gh-build.md](https://github.com/christrees/wip/edit/main/labnotes/gh-build.md)
+## ToDo
+- [ ] Confirm backup [Digital Inventory Doc](https://docs.google.com/spreadsheets/d/1DUeTZ9TLzZReFxg84TLXvxiPXK7IepM0W9Iki86HPYo/edit#gid=0)
+  - [ ] magma
+  - [ ] projects
+  - [ ] production
+  - [ ] public
+  - [ ] executive
+  - [ ] server workstations ?
+- [ ] Confirm server and network config backups
+  - [ ] pfSense
+  - [ ] truenas
+  - [ ] magma
+- [ ] Physical hardware inventory
+  - [ ] Digital Data
+  - [ ] Servers and configurations
+  - [ ] Storage and configurations
+  - [ ] Network and configurations
+- [ ] Print hardcopy with Inventory and admin info
+- [ ] Take everything down
+- [ ] Bring everything up (confirm with check test)
+- [ ] Take everything down again
+
+old wip info [https://github.com/christrees/wip/edit/main/labnotes/gh-build.md](https://github.com/christrees/wip/edit/main/labnotes/gh-build.md)
 
 ## gh backup build
 - based on [neststack proxmox](https://github.com/2cld/netstack/tree/master/docs/lan/compute/proxmox)
@@ -19,12 +40,13 @@ wip info [https://github.com/christrees/wip/edit/main/labnotes/gh-build.md](http
 | projects | [http://192.168.254.6/](http://192.168.254.6/) | dhcp-res | gh projects gw |
 | magma | [http://192.168.254.4/](http://192.168.254.4/) | dhcp-res | gh magma |
 
-- IPA DNS [https://192.168.254.1/status_dhcp_leases.php](https://192.168.254.1/status_dhcp_leases.php)
-- IPA DNS binds [https://192.168.254.1/services_unbound.php](https://192.168.254.1/services_unbound.php}
-- gh does not have control of this gw router 208.126.60.28
-- [https://whatismyipaddress.com/](https://whatismyipaddress.com/) [https://whatismyipaddress.com/ip/208.126.60.28](https://whatismyipaddress.com/ip/208.126.60.28)
-- IPA [http://192.168.254.254/advancedsetup_dhcpreservation.html](http://192.168.254.254/advancedsetup_dhcpreservation.html)
+- IPA DNS  bindings [https://192.168.254.1/services_unbound.php](https://192.168.254.1/services_unbound.php)
+- IPA DHCP    lease [https://192.168.254.1/status_dhcp_leases.php](https://192.168.254.1/status_dhcp_leases.php)
+- IPA DHCP   macres [http://192.168.254.254/advancedsetup_dhcpreservation.html](http://192.168.254.254/advancedsetup_dhcpreservation.html)
 - DNS pfsense [http://192.168.254.1](http://192.168.254.254/) route to 192.168.252.0/23 subnet
+- gw is http://192.168.254.254/ but DNS is http://192.168.254.1 the PFSense Router
+- gh does not have control of the gw router 192.168.254.254 and public IP 208.126.60.28
+- [https://whatismyipaddress.com/](https://whatismyipaddress.com/) [https://whatismyipaddress.com/ip/208.126.60.28](https://whatismyipaddress.com/ip/208.126.60.28)
 
 
 ## 192.168.252.0/23 gw [http://192.168.252.1/](http://192.168.252.1/) dns 192.168.253.254
@@ -34,13 +56,8 @@ wip info [https://github.com/christrees/wip/edit/main/labnotes/gh-build.md](http
 | ng.gh.lan | [https://192.168.253.254/](https://192.168.253.254/) | static | pfsense ng on subnet |
 | sg.gh.lan | [https://192.168.252.2/](https://192.168.252.2/) | static | truenas sg on subnet |
 | cg.gh.lan | [https://192.168.252.3:8006/](https://192.168.252.3:8006/) | static | proxmox cg on subnet |
-| sg2.gh.lan | [https://192.168.252.6/](https://192.168.252.6/) | static | truenas sg2 garage ? on subnet |
+| sg2.gh.lan | [https://192.168.252.6/](https://192.168.252.6/) | static | truenas sg2 garage subnet |
 | lot.gh.lan | [https://192.168.252.12/](https://192.168.252.12/) | static | truenas log ? on subnet |
-| ~~nginx default~~ | [http://192.168.2.103/](http://192.168.2.103/) | static | ~~default nginx proxy page running in portainer~~ |
-| ~~nginx proxy admin~~ | [http://192.168.2.103:81](http://192.168.2.103:81) | macDHCP | ~~admin for nginx running in portainer~~ |
-| ~~portainer admin~~ | [http://192.168.2.103:9000](http://192.168.2.103:9000) | macDHCP | portainer admin on proxmox docker 103 |
-| ~~dockerplex web~~ | [http://192.168.2.103:32400](http://192.168.2.103:32400) | ~~macDHCP | 32400 on IP plex on portainer~~ |
-| ~~tnasplex web~~ | [http://192.168.2.2:32500](http://192.168.2.2:32500) | static | ~~32500 on IP plex on portainer~~ |
 | catghwin10 | [http://192.168.252.10](http://192.168.252.10) | static | windows 10 cat zt 10.147.17.127 |
 
 - [https://my.zerotier.com/](https://my.zerotier.com/)
