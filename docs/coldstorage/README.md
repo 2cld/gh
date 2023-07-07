@@ -3,7 +3,7 @@
 Mapping the status of network and devices for coldstorage.
 
 ## ToDo
-- [X] DONE 2023.07.07 Chris creates this document
+- [X] DONE 2023.07.07 ~~Chris creates this document~~
 - [ ] 2023.07.08 Call Chris and arrange a time to review
   - [ ] Steve and Chris review digital backup data
   - [ ] Chris reclaims old backup space
