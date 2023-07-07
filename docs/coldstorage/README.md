@@ -1,3 +1,4 @@
+[edit](https://github.com/2cld/gh/edit/master/docs/coldstorage/README.md)
 # gh coldstorage
 
 Mapping the status of network and devices for coldstorage.
@@ -46,7 +47,8 @@ wip info [https://github.com/christrees/wip/edit/main/labnotes/gh-build.md](http
 - tbd
 
 ---
-# DNS Resolver [https://192.168.253.254/services_unbound.php](https://192.168.253.254/services_unbound.php)
+# DNS Resolver 
+- [https://192.168.253.254/services_unbound.php](https://192.168.253.254/services_unbound.php)
 ```
 alpine	gh.lan	192.168.254.91	Artist Workstation	 
 avanti	gh.lan	192.168.254.96	Artist Workstation	 
@@ -75,4 +77,38 @@ switcher	gh.lan	192.168.254.110	Sound Room Switcher
 tesla	gh.lan	192.168.254.88	Surface Pro Laptop	 
 triumph	gh.lan	192.168.254.89	Mac Workstation	 
 viper	gh.lan	192.168.254.81	viper
+```
+# Active dhcp leases 192.168.252.0/22 subnet 
+- [https://192.168.253.254/status_dhcp_leases.php](https://192.168.253.254/status_dhcp_leases.php)
+Note: 192.168.254.0/24 subnet is farmtel with no admin access
+```
+192.168.252.2	00:30:48:c7:82:b3	storage gateway	sg	sg.gh.lan freenas 4x6TB zfs2 21TB	n/a	n/a	online	static	 
+192.168.252.6	00:08:9b:e2:83:93	sg2	sg2	Backup Storage Server TS-431 4x2TB raid5	n/a	n/a	offline	static	  
+192.168.252.9	00:15:17:b1:cf:59	dg	dg	Grasshorse GitLab Document Gateway	n/a	n/a	offline	static	  
+192.168.252.10	00:1e:67:0f:b9:1c	catghwind10	catghwin10	cat Windows 10 baremetal test machine	n/a	n/a	online	static	 
+192.168.252.12	1a:59:cc:25:96:5d	lot	lot	lot storage parking for offline data	n/a	n/a	offline	static	  
+192.168.252.19	3c:07:54:72:49:e2	catmini-ghgrid	macci	macci IP when on ghadmin Grid	n/a	n/a	offline	static	  
+192.168.252.101	00:1e:67:0f:b7:50	ghg01	ghg01	Grasshorse proxmox grid server ghg01	n/a	n/a	offline	static	  
+192.168.252.102	00:1e:67:0f:b9:b1	ghg02	ghg02	Grasshorse proxmox grid server ghg02	n/a	n/a	offline	static	  
+192.168.252.103	00:1e:67:0f:ba:94	ghg03	ghg03	Grasshorse proxmox grid server ghg03	n/a	n/a	offline	static
+```
+# arp table
+- [https://192.168.253.254/diag_arp.php](https://192.168.253.254/diag_arp.php)
+```
+WAN	192.168.254.91	70:8b:cd:54:d7:b4	alpine.gh.lan	Expires in 837 seconds	ethernet	
+LAN	192.168.252.10	00:1e:67:0f:b9:1c	catghwin10.gh.lan	Expires in 496 seconds	ethernet	
+WAN	192.168.254.103	4c:cc:6a:0d:be:32	char3.gh.lan	Expires in 1172 seconds	ethernet	
+WAN	192.168.254.95	04:d9:f5:c8:c7:fc	cybertruck.gh.lan	Expires in 1140 seconds	ethernet	
+WAN	192.168.254.94	1c:69:7a:90:17:1f	eclipse.gh.lan	Expires in 1091 seconds	ethernet	
+WAN	192.168.254.1	00:1e:67:10:80:88	galaxy.gh.lan	Permanent	ethernet	
+WAN	192.168.254.93	4c:cc:6a:0d:bd:1e	gremlin.gh.lan	Expires in 1190 seconds	ethernet	
+LAN	192.168.253.254	00:1e:67:10:80:89	ng.gh.lan	Permanent	ethernet	
+WAN	192.168.254.6	00:30:48:c9:ee:98	projects.gh.lan	Expires in 854 seconds	ethernet	
+WAN	192.168.254.8	00:1e:67:0f:ba:2c	prowler.gh.lan	Expires in 1012 seconds	ethernet	
+WAN	192.168.254.11	00:23:df:df:53:21	ram.gh.lan	Expires in 216 seconds	ethernet	
+LAN	192.168.252.2	00:30:48:c7:82:b3	sg.gh.lan	Expires in 23 seconds	ethernet	
+WAN	192.168.254.90	40:16:7e:37:9d:af	studebaker.gh.lan	Expires in 1163 seconds	ethernet	
+WAN	192.168.254.81	4c:cc:6a:0d:be:98	viper.gh.lan	Expires in 1184 seconds	ethernet	
+WAN	192.168.254.80	10:c3:7b:46:da:95		Expires in 1190 seconds	ethernet	
+WAN	192.168.254.254	ec:4f:82:65:9a:cf		Expires in 1181 seconds	ethernet
 ```
