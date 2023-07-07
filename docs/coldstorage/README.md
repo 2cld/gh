@@ -3,6 +3,12 @@
 Mapping the status of network and devices for coldstorage.
 
 ## ToDo
+- [ ] Call Chris and arrange a time
+  - [X] DONE 2023.07.07 Chris creates this document
+  - [ ] Steve and Chris review digital backup data
+  - [ ] Chris reclaims old backup space
+  - [ ] Chris and Steve identify min requied gh.lan for a restart
+  - [ ] 2023.07.17 confirm date for the coldstorage test 
 - [ ] Confirm backup [Digital Inventory Doc](https://docs.google.com/spreadsheets/d/1DUeTZ9TLzZReFxg84TLXvxiPXK7IepM0W9Iki86HPYo/edit#gid=0)
   - [ ] magma
   - [ ] projects
