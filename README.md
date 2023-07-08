@@ -11,6 +11,7 @@ gh 2cld Open Standards Network Project. [Edit this](https://github.com/2cld/gh/e
 - Brad media backup
   
 # 2023 Project Proposal review required
+- [http://thetheatremuseum.com/they-had-a-dream](http://thetheatremuseum.com/they-had-a-dream)
 - Create LLC name tbd - Target is educational opensource based production (mainly blender and blender add-ons)
   - Donate personal digital capital assets for video production
   - Offer purchase any Grasshorse capital assets (up to Steve) 
