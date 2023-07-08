@@ -16,7 +16,7 @@ Mapping the status of network and devices for coldstorage.
   - [ ] public
   - [ ] executive
   - [ ] server workstations ?
-- [ ] Confirm server and network config backups
+- [ ] Confirm server and network config [DataCenter Layout](https://docs.google.com/spreadsheets/d/1cPcjizKYg8XDHQctY8t1wBhW3g6rClCJ6O_DGaXIscI/edit#gid=1621592935)
   - [ ] pfSense
   - [ ] truenas
   - [ ] magma
