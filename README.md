@@ -1,5 +1,12 @@
+[Edit this](https://github.com/2cld/gh/edit/master/README.md)
+
 # gh
-gh 2cld Open Standards Network Project. [Edit this](https://github.com/2cld/gh/edit/master/README.md)
+bring down network and sort network hardware
+
+# 2023 Aug shutdown
+- grasshorse data arch verification
+- media backup verification
+- computer hardware inventory spreadsheet
 
 # 2023 July cold storage project [coldstorage](./docs/coldstorage)
 - grasshorse data backup index
