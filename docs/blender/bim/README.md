@@ -1,6 +1,7 @@
 - [https://www.blender.org/download/](https://www.blender.org/download/) - Blender 3.6
 - [https://dotbow.github.io/Blender-Launcher/](https://dotbow.github.io/Blender-Launcher/) Manages multiple blender versions
 - [https://blenderbim.org/download.html](https://blenderbim.org/download.html)
+  - [https://github.com/IfcOpenShell/IfcOpenShell/releases](https://github.com/IfcOpenShell/IfcOpenShell/releases) - github releases
 - [https://blenderbim.org/docs/users/installation.html](https://blenderbim.org/docs/users/installation.html)
   - Open up Blender, and click on Edit > Preferences
   - Select the Add-ons tab, and press Install… on the top right. Navigate to the .zip you downloaded in Step 2, and press Install Add-on.
