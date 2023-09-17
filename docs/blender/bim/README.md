@@ -1,4 +1,4 @@
-
+- [https://www.blender.org/download/](https://www.blender.org/download/) - Blender 3.6
 - [https://blenderbim.org/download.html](https://blenderbim.org/download.html)
 - [https://blenderbim.org/docs/users/installation.html](https://blenderbim.org/docs/users/installation.html)
   - Open up Blender, and click on Edit > Preferences
