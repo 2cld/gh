@@ -1,12 +1,43 @@
 [Edit this](https://github.com/2cld/gh/edit/master/README.md)
 
 # gh
-bring down network and sort network hardware
+
+Agenda for 2023.11.05
+- Inventory
+  - AliceTrees Estate [Inventory](https://docs.google.com/spreadsheets/d/1DKb3lPvvxENL9s3Xo8LNtRDORzgJTz41veKOQpennk4/edit#gid=1106379675)
+  - Grasshorse [Inventory](https://docs.google.com/spreadsheets/d/1KjOBpD3Bz_bT0rMGfP9HB43t5N-6cx5WmbyCsVMJcF0/edit#gid=0)
+  - Document and code for processing: Storage, Sell or Dispose
+  - Setup maintaince meetings ?? 
+  - Setup online selling ??
+
+- Storage (physical and digital)
+  - Document all storage locations
+  - Size Storage requirements and eliminate external storage location
+  - Review and project maintaince cost on storage locations
+
+- Houses 
+  - Rent / Sell / Remove
+  - Maintainance (TH Twig)
+  - Attach structures to farm land maintaince
+  - Review depreciation for short-term rental / renovation loans
+
+- Farms
+  - Rent / Custom
+  - Maintainence
+  - Operational Loans
+  - Storage and Marketing
+  - Commodity trading
+     
+- LLC and Tax Structure [blog.christrees.com/tax](https://blog.christrees.com/tax/)
+
+---
+---
 
 # 2023 Aug shutdown
 - grasshorse data arch verification
 - media backup verification
 - computer hardware inventory spreadsheet
+- bring down network and sort network hardware
 
 # 2023 July cold storage project [coldstorage](./docs/coldstorage)
 - grasshorse data backup index
