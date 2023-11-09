@@ -1,6 +1,26 @@
 [Edit this](https://github.com/2cld/gh/edit/master/README.md)
 
 # gh
+Agenda for 2023.11.09
+- Inventory
+  - ALL - Sort Process (Keep, Sell, Trash with owner, storage and maintainance cost)
+  - Chris/?Kathy - Setup Sell, Keep Database for Photo's and document
+  - Chris/Carla - Setup Recycle / Trash
+  - Chris/? - Setup online selling
+- Storage
+  - Locations
+    - ![KarenDraw]()
+- Houses
+  - Look into rehab / rent
+- Farms
+  - Custom vs Rent
+  - Grain Sales and Hedging
+  - Operation Agreements
+  - USDA
+- Tax and Estate stuff
+  - Alice Trees Estate close 2023 ?
+  - Farm payments
+  - Get info to Sara for Estate close
 
 Agenda for 2023.11.05
 - Inventory
