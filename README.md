@@ -1,6 +1,14 @@
 [Edit this](https://github.com/2cld/gh/edit/master/README.md)
 
 # gh
+
+Agenda for 2023.11.15
+- [Storage shed steel for $850](https://www.shelterlogic.com/arrow-classic-steel-shed-10x8-charcoal?gad_source=1&gclid=CjwKCAiAu9yqBhBmEiwAHTx5p_1QcaeOrpmW1izmhrlJc4XiESMPAXwPz8mIW1n0KZ0Az3aaTCs-ARoCldMQAvD_BwE)
+- [Rollup Doors for $500](https://www.rollupdoorsdirect.com/rollupdoor650.php)
+- Schedule next cleanup
+- What to do with Houses (rental service co)
+- tbd
+
 Agenda for 2023.11.09
 - Inventory
   - ALL - Sort Process (Keep, Sell, Trash with owner, storage and maintainance cost)
