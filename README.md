@@ -3,6 +3,9 @@
 # gh
 
 Agenda for 2023.11.22
+- SID - Sort Status (Sell Invest Dispose)
+  - AliceTrees Estate [Inventory](https://docs.google.com/spreadsheets/d/1DKb3lPvvxENL9s3Xo8LNtRDORzgJTz41veKOQpennk4/edit#gid=1106379675)
+  - Grasshorse [Inventory](https://docs.google.com/spreadsheets/d/1KjOBpD3Bz_bT0rMGfP9HB43t5N-6cx5WmbyCsVMJcF0/edit#gid=0)
 - Possible WAG (Winfield Actors Guild) worthy waste of time efforts
   - Objective is to recapitalize shared assets through crap we'd waste time on in retirement
   - Online Art Glass (Carla)
@@ -11,6 +14,8 @@ Agenda for 2023.11.22
   - Online Digital Restorations
   - Online Storage Archives
   - Online Legacy Expressions (Ancestory.com type stuff)
+- [https://www.shopify.com/pricing](https://www.shopify.com/pricing)
+- [https://www.squarespace.com/ecommerce/sell-products](https://www.squarespace.com/ecommerce/sell-products)
 - Review WTF (Winfield Trust Fund ;-) Legacy Property Oppertunities
   - Mainly I wanted to list out WTF property wise I could probably raise interest to recap and manage
   - Trees AES - Mom's house
