@@ -2,6 +2,40 @@
 
 # gh
 
+Agenda for 2023.11.22
+- Possible WAG (Winfield Actors Guild) worthy waste of time efforts
+  - Objective is to recapitalize shared assets through crap we'd waste time on in retirement
+  - Online Art Glass (Carla)
+  - Online Klop Creations (Dixie)
+  - Online Furniture Restoration (all / TH Twig)
+  - Online Digital Restorations
+  - Online Storage Archives
+  - Online Legacy Expressions (Ancestory.com type stuff)
+- Review WTF (Winfield Trust Fund ;-) Legacy Property Oppertunities
+  - Mainly I wanted to list out WTF property wise I could probably raise interest in fund/manage
+  - Trees AES - Mom's house
+  - Trees AES - Rental house
+  - Trees AES - Pole barn
+  - FH Klop Farms - Pole barn
+  - Joe Klop - Granpa's house
+  - Joe Klop - Ruth's house
+  - Joe Klop - Turkey Shed
+  - Joe Klop - Machine Shed
+  - Steve Klop - Steve's house
+  - L Klop - Lavon's house
+  - L Klop - probably a lot more buildings
+  - JFT - Grasshorse building
+  - JFT - Farm House
+  - JFT - Farm Garage/Shop
+  - JFT - Farm Barn
+  - JFT - Farm Hog 1
+  - JFT - Farm Hog 2
+  - JFT - Farm Small 1
+  - JFT - Farm Small 2
+  - JFT - Farm tiny ?
+  - JFT - South 80 Rental
+  - ?? Turkey Run ??
+
 Agenda for 2023.11.15
 - [Storage shed steel for $850](https://www.shelterlogic.com/arrow-classic-steel-shed-10x8-charcoal?gad_source=1&gclid=CjwKCAiAu9yqBhBmEiwAHTx5p_1QcaeOrpmW1izmhrlJc4XiESMPAXwPz8mIW1n0KZ0Az3aaTCs-ARoCldMQAvD_BwE)
 - [Rollup Doors for $500](https://www.rollupdoorsdirect.com/rollupdoor650.php)
