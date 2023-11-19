@@ -12,7 +12,7 @@ Agenda for 2023.11.22
   - Online Storage Archives
   - Online Legacy Expressions (Ancestory.com type stuff)
 - Review WTF (Winfield Trust Fund ;-) Legacy Property Oppertunities
-  - Mainly I wanted to list out WTF property wise I could probably raise interest in fund/manage
+  - Mainly I wanted to list out WTF property wise I could probably raise interest to recap and manage
   - Trees AES - Mom's house
   - Trees AES - Rental house
   - Trees AES - Pole barn
