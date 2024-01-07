@@ -32,6 +32,7 @@ Blender test machine is on the ghadmin - horseoff [network](https://my.zerotier.
 - Blender [Learning Blender 2023 tutorial reviews](https://www.youtube.com/watch?v=8K4AShjq-MU)
 - Blender [I wish I knew before starting to learn blender](https://www.youtube.com/watch?v=m6U09BKETHY)
 - Blender [tips youtube](https://www.youtube.com/watch?v=4YDf_ctubbI)
+- [BlenderBIM](../bim/)
 - BlenderBIM [IFC Architect](https://www.youtube.com/@IfcArchitect/videos)
 - BlenderBIM [IFC Architect - Begin](https://www.youtube.com/watch?v=kF2k_VW-yrQ)
 - BlenderBIM [https://blenderbim.org](https://blenderbim.org/index.html)
