@@ -9,3 +9,10 @@
   - You can enable add-ons permanently by using Save User Settings from the Addons menu.
   - Upon installation, the BlenderBIM Add-on is stored in the scripts/addons/blenderbim/ directory, within your Blender configuration folder. However, the location of your Blender configuration folder depends on how you have installed Blender.
 - [https://www.youtube.com/@IfcArchitect/videos](https://www.youtube.com/@IfcArchitect/videos)
+
+- BlenderBIM [IFC Architect](https://www.youtube.com/@IfcArchitect/videos)
+- BlenderBIM [IFC Architect - Begin](https://www.youtube.com/watch?v=kF2k_VW-yrQ)
+- BlenderBIM [https://blenderbim.org](https://blenderbim.org/index.html)
+- BlenderBIM [https://ifcopenshell.org/](https://ifcopenshell.org/)
+- BlenderBIM [Add on - youtube](https://www.youtube.com/watch?v=kYs6w5LlfNM)
+- BlenderBIM [update - youtube](https://www.youtube.com/watch?v=oljVAjW9QVw)
