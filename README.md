@@ -1,6 +1,20 @@
 [Edit this](https://github.com/2cld/gh/edit/master/README.md)
 
 # gh
+Agenda for 2024.01.08-??
+- Carla is off next week recovering from her eye update.
+- If she does not contact you guys before Tue, start bugging her.
+- Checkout [https://www.catalogit.app/](https://www.catalogit.app/)
+  - Trinkala's are using this do document rare photos and artwork
+  - You can sign up and get 50 items for free
+  - If we use it, Trink and I would build one
+- Our 'goal' while Carla is at Moms
+  - Finish clothing sort and dispose
+  - Do a SID (below) on all items in house
+  - Brian and I are doing a SID on the garages around Mom's house
+- I would like to setup selling of items (Trinkalas, Nordykes and Edwards are also looking to sell collectables)
+- I'm going to attempt to capture house in Blender BIM and target repair / upgrade projects
+
 
 Agenda for 2023.11.22
 - SID - Sort Status (Sell Invest Dispose)
