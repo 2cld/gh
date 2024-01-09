@@ -5,6 +5,8 @@ Agenda for 2024.01.08-??
 - Carla is off next week recovering from her eye update.
 - If she does not contact you guys before Tue, start bugging her.
 - Checkout [https://www.catalogit.app/](https://www.catalogit.app/)
+  - [Catalogit - youtube demo](https://youtu.be/4ks_KsO18yw?list=PLh1Akm1WtAXbAwMiyJEc_ASl5AQbzBbb9)
+  - ghadmin chrome user [https://catalogit.app/login/credentials](https://catalogit.app/login/credentials)
   - Trinkala's are using this do document rare photos and artwork
   - You can sign up and get 50 items for free
   - If we use it, Trink and I would build one
