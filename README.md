@@ -1,6 +1,10 @@
 [Edit this](https://github.com/2cld/gh/edit/master/README.md)
 
 # gh
+
+- For Carla... [Grain bin mini home](https://www.youtube.com/watch?v=XFhKkr28Wj0)
+- Air BnB [Grain Silo Tiny House](https://www.youtube.com/watch?v=7NDsd4B0sK0)
+  
 Agenda for 2024.01.08-??
 - Carla is off next week recovering from her eye update.
 - If she does not contact you guys before Tue, start bugging her.
