@@ -10,6 +10,10 @@
   - Upon installation, the BlenderBIM Add-on is stored in the scripts/addons/blenderbim/ directory, within your Blender configuration folder. However, the location of your Blender configuration folder depends on how you have installed Blender.
 - [https://www.youtube.com/@IfcArchitect/videos](https://www.youtube.com/@IfcArchitect/videos)
 
+
+- [Blender Launcher Download](https://github.com/DotBow/Blender-Launcher/releases) then [Install tutorial](https://www.youtube.com/watch?v=lmZKAUfcZAs)
+- DotBow github -> [DotBow Blender Laucher](https://github.com/DotBow/Blender-Launcher)
+- tbd
 - BlenderBIM [IFC Architect](https://www.youtube.com/@IfcArchitect/videos)
 - BlenderBIM [IFC Architect - Begin](https://www.youtube.com/watch?v=kF2k_VW-yrQ)
 - BlenderBIM [https://blenderbim.org](https://blenderbim.org/index.html)
