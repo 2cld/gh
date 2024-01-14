@@ -1,3 +1,5 @@
+[edit](https://github.com/2cld/gh/edit/master/docs/blender/bim/README.md)
+
 - [https://www.blender.org/download/](https://www.blender.org/download/) - Blender 3.6
 - [https://dotbow.github.io/Blender-Launcher/](https://dotbow.github.io/Blender-Launcher/) Manages multiple blender versions
 - [https://blenderbim.org/download.html](https://blenderbim.org/download.html)
@@ -20,3 +22,6 @@
 - BlenderBIM [https://ifcopenshell.org/](https://ifcopenshell.org/)
 - BlenderBIM [Add on - youtube](https://www.youtube.com/watch?v=kYs6w5LlfNM)
 - BlenderBIM [update - youtube](https://www.youtube.com/watch?v=oljVAjW9QVw)
+
+- [BlenderBIM ICF Git - Demo Repo at github](https://github.com/brunopostle/ifc-demo)
+- [BlenderBIM ICF Git collabaration - youtube meetup](https://github.com/brunopostle/ifc-demo)
