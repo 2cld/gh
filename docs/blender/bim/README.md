@@ -25,3 +25,7 @@
 
 - [BlenderBIM ICF Git - Demo Repo at github](https://github.com/brunopostle/ifc-demo)
 - [BlenderBIM ICF Git collabaration - youtube meetup](https://github.com/brunopostle/ifc-demo)
+
+- [BlenderBIM - Scheduling, Resources, Animations](https://youtu.be/Q7-UBKLBK58)
+- [BlenderBIM - Scheduling, Resources, Animations Materials](https://www.consult-bim.com/courses/bbim_4_beginners/BBIM5D-1)
+ 
