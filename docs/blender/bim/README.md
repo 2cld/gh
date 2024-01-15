@@ -1,5 +1,12 @@
 [edit](https://github.com/2cld/gh/edit/master/docs/blender/bim/README.md)
 
+## Consult BIM tutoials
+- Current setup on CyberTruck
+- Launch Blender with Blender Launcher
+- Notsure original template CyberTruck C:\Users\ghadmin\BlenderProjects\end\5d.blend and 5D.ifc
+- may have to load the 5D.ifc file while in blender as I think the blend file has a bad pointer
+- Start [BIM 4D Crash Course tutorial - youtube](https://www.youtube.com/watch?v=Q7-UBKLBK58) In Blender open file on CyberTruck C:\Users\ghadmin\BlenderProjects\BIMTemplates\end\5d.blend
+
 ## IFC Archetect tutorials
 - Current setup on CyberTruck
 - Launch Blender with Blender Launcher
