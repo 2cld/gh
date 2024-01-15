@@ -5,6 +5,7 @@
 - Launch Blender with Blender Launcher
 - Notsure original template CyberTruck C:\Users\ghadmin\BlenderProjects\end\5d.blend and 5D.ifc
 - may have to load the 5D.ifc file while in blender as I think the blend file has a bad pointer
+- Scene -> Project Info -> 5D.ifc need to point to C:\Users\ghadmin\BlenderProjects\BIMTemplates\end\5D.ifc
 - Start [BIM 4D Crash Course tutorial - youtube](https://www.youtube.com/watch?v=Q7-UBKLBK58) In Blender open file on CyberTruck C:\Users\ghadmin\BlenderProjects\BIMTemplates\end\5d.blend
 
 ## IFC Archetect tutorials
