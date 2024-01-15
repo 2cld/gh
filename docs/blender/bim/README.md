@@ -13,6 +13,7 @@
 - Launch Blender with Blender Launcher
 - Notsure original template CyberTruck C:\Users\ghadmin\BlenderProjects\BIMTemplates\bim_template.blend
 - Start [IFCArchetect old tutorial - youtube](https://www.youtube.com/watch?v=kF2k_VW-yrQ) In Blender open file on CyberTruck C:\Users\ghadmin\BlenderProjects\BIMTemplates\IFCArchetectTutorial-old.blend
+- Should work with this [IFCArchitect - Beginner Tutorial Update - Floorplan - in 20mins](https://www.youtube.com/watch?v=agwK8hbkToM)
 
 # References
 - [https://www.blender.org/download/](https://www.blender.org/download/) - Blender 3.6
