@@ -1,5 +1,23 @@
 [Edit this](https://github.com/2cld/gh/edit/master/README.md)
 
+# 2024.07.19
+## Given I can get access to Sat/Sun
+- Pull my truck and trailer to back of GH Loading Dock
+- Load my corner of shit in bathroom and server room
+- Load large trash and/or bags for dump
+- Once trailer is full, go out to folks and throw off my stuff onto palets, trash in trash pile
+- Go back into GH Loading Dock to load bigger servers and server racks, doors
+- Load 'need to recycle' electronics into my recycle crate
+- Load any tagged stuff from Steve, Kathy or Karen for recycle and or further sorting sale
+  - Assuming all stuff on shelves (and shelves) downstairs will to out to folks barn
+  - All trash in bags (both for trash or further sorting) just need to be tagged as trash or sort recycle
+  - Carla, Kathy and Karen can work through sorting tagging arch or 'put up for sale' out at moms, but target date for disposition is pre Aug 4
+  - Brian and I will work through any dumpster trash/ or recycling out of the large barn
+- I'm good with moving any larger toolboxes or equipment out to the big sheds at folks... again pre Aug 4 disposition is all that's required
+
+- Scott and I talked... worst case he said he can hire kids on monday again, once I'm done, I can leave folks truck and trailer for Monday... and a spot in the old shed to just back the trailer into.  You can leave what-ever on it with a pre Aug 4 disposition... Brian and I can deal with it with the rest of our junk / storage.
+
+  
 # gh
 
 - For Carla... [Grain bin mini home](https://www.youtube.com/watch?v=XFhKkr28Wj0)
