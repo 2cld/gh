@@ -1,0 +1,26 @@
+## Should Try
+- Blender 4.0 Exterior Archviz - https://www.youtube.com/watch?v=e-Ql-bMa9So
+- Blender ArchViz - Home Office - https://www.youtube.com/watch?v=f987mhK1yX8&list=PLpptSJNGQPpYcBlpRcCju88KRWuWv6EdX&index=2
+- Blender ArchViz full course [Interior Visualization](https://www.youtube.com/watch?v=mhV2LGhA_nE&list=PLYVR0A4acpNaFiTL-qmxH8fm4DJxqq-vp)
+- ArchViz in Blender https://www.youtube.com/watch?v=3Nzi585gSFs
+- Optimize Interior Renders https://www.youtube.com/watch?v=dLZEmfqob7k
+- Interiors in Blender https://www.youtube.com/watch?v=PoSvCn1Jl6g
+- Furniture in Blender https://www.youtube.com/watch?v=1i6woUR4iQA
+- end
+- Precise measurements in Blender https://www.youtube.com/watch?v=JjL7iKR4gQs
+- Renders in Blender https://www.youtube.com/watch?v=ELz6EpkAQR8
+- Run Blender from Jupyter Notebook https://www.youtube.com/watch?v=KfqZ_GzgrHA
+- GPU Render on Jupyter Notebook https://www.youtube.com/watch?v=KflntX1Hqxw
+- Model laptop https://www.youtube.com/watch?v=syY9V2GZ_mM
+- Walls and Slabs BlenderBIM https://www.youtube.com/watch?v=0bUZuXppWnQ
+- Good and new https://www.youtube.com/@sigmadimensions/videos
+- 10 blender addons for architecture https://www.youtube.com/watch?v=X7Jop8Ocjv4
+## Random Notes
+- Digital Hub BIM project https://github.com/RWTH-E3D/DigitalHub
+- Open Ifc Models https://openifcmodel.cs.auckland.ac.nz/
+- github search for IFC models https://github.com/search?q=ifc&type=repositories
+- buildingSMART repos https://github.com/orgs/buildingSMART/repositories
+- blenderNation https://www.blendernation.com/category/education/tutorials/videotutorials/
+- blenderKit https://www.blenderkit.com/get-blenderkit/d794745b-e693-438e-b17d-f49f0524efbf/
+- Creator of HomeBuilder - https://www.youtube.com/@andrewpeel1996/videos
+- https://creativedesigner3d.github.io/home_builder_3_docs/
