@@ -9,3 +9,4 @@
   - downloaded render and floorplan catsurface downloads should add here
   - Tutorial 1 notes
   - tbd
+- Master Class [yt-mastersketchup](https://www.youtube.com/@Mastersketchup)
